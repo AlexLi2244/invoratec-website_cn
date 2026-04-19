@@ -1,21 +1,35 @@
 <script setup lang="ts">
-import { ref, computed } from 'vue'
+import { ref, computed, onMounted, reactive } from 'vue'
 import { useI18n } from 'vue-i18n'
 
 const { t } = useI18n()
 
 const showMaintenanceModal = ref(false)
 
-const download = {
+// Default values — overridden at runtime from /downloads/version.json (updated by Addin CI/CD)
+const download = reactive({
   id: 'revit-all',
   name: 'BIM AI for Revit (中国版)',
-  version: '1.0.3',
-  date: '2026-01-09',
+  version: '2.0.0.0',
+  date: '2026-04-19',
   size: '13 MB',
   type: 'Windows Installer',
   revitVersions: ['2026', '2025', '2024', '2023', '2022', '2021', '2020', '2019'],
-  downloadUrl: '/downloads/InvoratecAI-Setup-CN.msi'
-}
+  downloadUrl: '/downloads/InvoratecAI-Setup-CN.msi',
+  buildHash: '',
+  releaseNotes: '',
+})
+
+// Fetch latest version info from Addin CI/CD
+onMounted(async () => {
+  try {
+    const res = await fetch('/downloads/version.json?t=' + Date.now(), { cache: 'no-store' })
+    if (res.ok) {
+      const data = await res.json()
+      Object.assign(download, data)
+    }
+  } catch { /* keep defaults if version.json missing */ }
+})
 
 const downloadInstaller = () => {
   window.location.href = download.downloadUrl

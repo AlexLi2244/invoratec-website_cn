@@ -14,7 +14,7 @@ yarn-error.log*
 *.tsbuildinfo
 nul
 
-# Large binary files - hosted separately (OSS)
+# Large binary files - delivered via Addin CI/CD (uploaded directly to ECS)
 public/video/*.mp4
 public/video/*.webm
 public/downloads/*.msi
@@ -22,6 +22,8 @@ public/downloads/*.exe
 public/downloads/*.dmg
 public/downloads/*.zip
 *.pdf
+# Keep version.json in git so it ships with website builds as fallback
+!public/downloads/version.json
 
 # Aliyun deployment helpers (not needed when using GitHub Actions)
 upload-to-oss.cjs
