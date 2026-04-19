@@ -35,35 +35,83 @@ jobs:
           source: dist.tar.gz
           target: /tmp/
 
-      - name: Extract and activate
+      - name: Atomic deploy with backup + rollback (preserves /downloads/)
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.ECS_HOST }}
           username: ${{ secrets.ECS_USER }}
           password: ${{ secrets.ECS_PASSWORD }}
           script: |
-            # Preserve /downloads/ contents (managed by Addin CI/CD: MSI + version.json)
-            mkdir -p /var/www/www.invoratec.cn/downloads
-            mv /var/www/www.invoratec.cn/downloads /tmp/preserve-downloads 2>/dev/null || true
-            rm -rf /var/www/www.invoratec.cn/*
-            tar -xzf /tmp/dist.tar.gz -C /var/www/www.invoratec.cn/
-            # Restore preserved /downloads/ — Addin uploads (MSI/version.json) win over website's bundled fallback
-            if [ -d /tmp/preserve-downloads ]; then
-              mkdir -p /var/www/www.invoratec.cn/downloads
-              cp -r /tmp/preserve-downloads/. /var/www/www.invoratec.cn/downloads/
-              rm -rf /tmp/preserve-downloads
+            REMOTE=/var/www/www.invoratec.cn
+            BACKUP_DIR=/var/www/www.invoratec.cn.backup
+            BACKUP_KEEP=3
+            STAGING=/tmp/website-staging-$$
+
+            # ─── 1. Backup current (excluding /downloads/ — those are managed by Addin CI/CD) ───
+            if [ -d "$REMOTE" ] && [ "$(ls -A $REMOTE 2>/dev/null)" ]; then
+              TS=$(date +%Y%m%d-%H%M%S)
+              mkdir -p $BACKUP_DIR
+              tar -czf $BACKUP_DIR/$TS.tar.gz --exclude='downloads' -C $REMOTE . 2>/dev/null
+              ls -1t $BACKUP_DIR/*.tar.gz 2>/dev/null | tail -n +$((BACKUP_KEEP+1)) | xargs -r rm -f
+              echo "Backup created: $TS.tar.gz (excluding /downloads/)"
             fi
+
+            # ─── 2. Atomic deploy: extract to staging, validate, then swap ───
+            mkdir -p $STAGING
+            tar -xzf /tmp/dist.tar.gz -C $STAGING
             rm /tmp/dist.tar.gz
+
+            if [ ! -f "$STAGING/index.html" ]; then
+              echo "ERROR: dist.tar.gz did not contain index.html — aborting"
+              rm -rf $STAGING
+              exit 1
+            fi
+
+            # Preserve /downloads/ (Addin CI/CD MSI + version.json)
+            mv $REMOTE/downloads /tmp/preserve-downloads-$$ 2>/dev/null || true
+
+            # Atomic swap
+            rm -rf $REMOTE/*
+            cp -r $STAGING/. $REMOTE/
+            rm -rf $STAGING
+
+            # Restore /downloads/ — Addin's MSI wins over website's bundled fallback
+            if [ -d "/tmp/preserve-downloads-$$" ]; then
+              mkdir -p $REMOTE/downloads
+              cp -r /tmp/preserve-downloads-$$/. $REMOTE/downloads/
+              rm -rf /tmp/preserve-downloads-$$
+            fi
             echo "Website deployed at $(date)"
 
-      - name: Verify deployment
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ${{ secrets.ECS_HOST }}
-          username: ${{ secrets.ECS_USER }}
-          password: ${{ secrets.ECS_PASSWORD }}
-          script: |
-            # Check via local nginx (works even before DNS propagates fully)
+            # ─── 3. Verify, rollback on failure ───
+            sleep 3
             STATUS=$(curl -s -o /dev/null -w "%{http_code}" -H "Host: www.invoratec.cn" http://127.0.0.1/)
-            echo "HTTP status (via nginx): $STATUS"
-            # Don't fail the build on DNS-related errors during initial setup
+            echo "HTTP status (via local nginx): $STATUS"
+
+            if [ "$STATUS" != "200" ]; then
+              echo "=== Verify FAILED ($STATUS) — initiating rollback ==="
+              LATEST_BACKUP=$(ls -1t $BACKUP_DIR/*.tar.gz 2>/dev/null | head -1)
+              if [ -n "$LATEST_BACKUP" ]; then
+                # Preserve downloads again before restoring
+                mv $REMOTE/downloads /tmp/preserve-downloads-rb-$$ 2>/dev/null || true
+                rm -rf $REMOTE/*
+                tar -xzf $LATEST_BACKUP -C $REMOTE
+                # Restore downloads
+                if [ -d "/tmp/preserve-downloads-rb-$$" ]; then
+                  mkdir -p $REMOTE/downloads
+                  cp -r /tmp/preserve-downloads-rb-$$/. $REMOTE/downloads/
+                  rm -rf /tmp/preserve-downloads-rb-$$
+                fi
+                sleep 3
+                ROLLBACK_STATUS=$(curl -s -o /dev/null -w "%{http_code}" -H "Host: www.invoratec.cn" http://127.0.0.1/)
+                if [ "$ROLLBACK_STATUS" = "200" ]; then
+                  echo "=== Rollback SUCCESS ==="
+                else
+                  echo "=== Rollback FAILED ($ROLLBACK_STATUS) ==="
+                fi
+              else
+                echo "No backup available — cannot rollback"
+              fi
+              exit 1
+            fi
+            echo "=== Deploy + verify SUCCESS ==="
