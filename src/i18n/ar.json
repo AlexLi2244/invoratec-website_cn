@@ -6014,6 +6014,7 @@
       "trialSubtitle": "بدون بطاقة ائتمان، وصول كامل"
     },
     "cards": {
+      "latestVersion": "أحدث إصدار",
       "recommended": "موصى به",
       "supportedVersions": "إصدارات Revit المدعومة",
       "downloadInstaller": "تحميل المثبت",

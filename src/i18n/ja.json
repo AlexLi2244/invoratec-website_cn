@@ -4729,6 +4729,7 @@
       "trialSubtitle": "クレジットカード不要、全機能利用可能"
     },
     "cards": {
+      "latestVersion": "最新バージョン",
       "recommended": "推奨",
       "supportedVersions": "対応Revitバージョン",
       "downloadInstaller": "インストーラーをダウンロード",

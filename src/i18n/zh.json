@@ -4301,6 +4301,7 @@
       "trialSubtitle": "无需信用卡，全功能体验"
     },
     "cards": {
+      "latestVersion": "最新版本",
       "recommended": "推荐",
       "supportedVersions": "支持的Revit版本",
       "downloadInstaller": "下载安装包",

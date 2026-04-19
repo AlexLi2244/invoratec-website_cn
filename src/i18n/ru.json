@@ -6011,6 +6011,7 @@
       "trialSubtitle": "Без кредитной карты, полный доступ"
     },
     "cards": {
+      "latestVersion": "Последняя версия",
       "recommended": "Рекомендуется",
       "supportedVersions": "Поддерживаемые версии Revit",
       "downloadInstaller": "Скачать установщик",

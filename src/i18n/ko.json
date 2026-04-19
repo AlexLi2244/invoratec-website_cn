@@ -5649,6 +5649,7 @@
       "trialSubtitle": "신용카드 불필요, 전체 기능 이용"
     },
     "cards": {
+      "latestVersion": "최신 버전",
       "recommended": "추천",
       "supportedVersions": "지원되는 Revit 버전",
       "downloadInstaller": "설치 프로그램 다운로드",

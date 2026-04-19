@@ -6011,6 +6011,7 @@
       "trialSubtitle": "Sem cartão de crédito, acesso completo"
     },
     "cards": {
+      "latestVersion": "Versão Mais Recente",
       "recommended": "Recomendado",
       "supportedVersions": "Versões do Revit Suportadas",
       "downloadInstaller": "Baixar Instalador",
