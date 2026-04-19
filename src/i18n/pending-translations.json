@@ -1,0 +1,6060 @@
+{
+  "zh": [
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.0.name",
+      "en": "invoratec_user"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.1.name",
+      "en": "locale"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.2.name",
+      "en": "region"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.3.name",
+      "en": "cookie_consent"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.0.name",
+      "en": "theme"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.1.name",
+      "en": "recent_projects"
+    },
+    {
+      "path": "blog.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "blog.tags.mep",
+      "en": "MEP"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.timeSaved",
+      "en": "40%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.costReduction",
+      "en": "25%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.errorReduction",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.timeSaved",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.costReduction",
+      "en": "20%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.errorReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.timeSaved",
+      "en": "45%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.costReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.errorReduction",
+      "en": "50%"
+    },
+    {
+      "path": "cases.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.viewer.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.sets.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.markup.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.elements.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.dateHours.type",
+      "en": "BIM"
+    }
+  ],
+  "ja": [
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.0.name",
+      "en": "invoratec_user"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.1.name",
+      "en": "locale"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.2.name",
+      "en": "region"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.3.name",
+      "en": "cookie_consent"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.0.name",
+      "en": "theme"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.1.name",
+      "en": "recent_projects"
+    },
+    {
+      "path": "pricing.plans.starter.price",
+      "en": "$99"
+    },
+    {
+      "path": "pricing.plans.professional.price",
+      "en": "$449"
+    },
+    {
+      "path": "blog.tags.ai",
+      "en": "AI"
+    },
+    {
+      "path": "blog.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "blog.tags.mep",
+      "en": "MEP"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.timeSaved",
+      "en": "40%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.costReduction",
+      "en": "25%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.errorReduction",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.timeSaved",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.costReduction",
+      "en": "20%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.errorReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.timeSaved",
+      "en": "45%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.costReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.errorReduction",
+      "en": "50%"
+    },
+    {
+      "path": "cases.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "newMedia.tabs.all",
+      "en": "All"
+    },
+    {
+      "path": "featuresPage.webFeatures.viewer.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.sets.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.markup.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.elements.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.dateHours.type",
+      "en": "BIM"
+    },
+    {
+      "path": "serviceBIM.process.steps.plan.title",
+      "en": "Plan"
+    },
+    {
+      "path": "serviceAI.features.items.custom.points.0",
+      "en": "Custom model fine-tuning"
+    },
+    {
+      "path": "serviceAI.features.items.custom.points.1",
+      "en": "Industry-specific training data"
+    },
+    {
+      "path": "serviceAI.features.items.custom.points.2",
+      "en": "Branded AI assistant"
+    },
+    {
+      "path": "serviceAI.features.items.local.points.0",
+      "en": "On-premise installation"
+    },
+    {
+      "path": "serviceAI.features.items.local.points.1",
+      "en": "Air-gapped network support"
+    },
+    {
+      "path": "serviceAI.features.items.local.points.2",
+      "en": "Full data sovereignty"
+    },
+    {
+      "path": "serviceAI.features.items.training.points.0",
+      "en": "Role-based curricula"
+    },
+    {
+      "path": "serviceAI.features.items.training.points.1",
+      "en": "Hands-on workshops"
+    },
+    {
+      "path": "serviceAI.features.items.training.points.2",
+      "en": "Certification programs"
+    },
+    {
+      "path": "serviceAI.features.items.integration.points.1",
+      "en": "Legacy system connectors"
+    },
+    {
+      "path": "serviceAI.features.items.integration.points.2",
+      "en": "Workflow automation"
+    },
+    {
+      "path": "serviceAI.useCases.items.automation.title",
+      "en": "Task Automation"
+    },
+    {
+      "path": "serviceAI.useCases.items.automation.description",
+      "en": "Automate repetitive workflows with custom AI agents"
+    },
+    {
+      "path": "serviceAI.useCases.items.assistant.title",
+      "en": "Custom Assistant"
+    },
+    {
+      "path": "serviceAI.useCases.items.assistant.description",
+      "en": "Company-specific AI assistant trained on your data"
+    },
+    {
+      "path": "serviceAI.webapp.title",
+      "en": "Powered by Our Web Platform"
+    },
+    {
+      "path": "serviceAI.webapp.subtitle",
+      "en": "Access your custom AI features through our powerful web application with full project management capabilities"
+    },
+    {
+      "path": "serviceAI.webapp.features.assistant.title",
+      "en": "AI Chat Assistant"
+    },
+    {
+      "path": "serviceAI.webapp.features.assistant.description",
+      "en": "Natural language interface to query project data and get intelligent answers"
+    },
+    {
+      "path": "serviceAI.webapp.features.reports.title",
+      "en": "AI-Generated Reports"
+    },
+    {
+      "path": "serviceAI.webapp.features.reports.description",
+      "en": "Automated report generation with insights and recommendations"
+    },
+    {
+      "path": "serviceAI.webapp.features.workflow.title",
+      "en": "Smart Workflows"
+    },
+    {
+      "path": "serviceAI.webapp.features.workflow.description",
+      "en": "AI-optimized task assignment and project scheduling"
+    },
+    {
+      "path": "serviceAI.webapp.cta",
+      "en": "Explore Web Platform"
+    },
+    {
+      "path": "serviceSupport.tiers.items.standard.features.0",
+      "en": "Email support"
+    },
+    {
+      "path": "serviceSupport.tiers.items.standard.features.1",
+      "en": "Knowledge base access"
+    },
+    {
+      "path": "serviceSupport.tiers.items.standard.features.2",
+      "en": "Community forum"
+    },
+    {
+      "path": "serviceSupport.tiers.items.standard.features.3",
+      "en": "48-hour response time"
+    },
+    {
+      "path": "serviceSupport.tiers.items.professional.features.0",
+      "en": "Live chat support"
+    },
+    {
+      "path": "serviceSupport.tiers.items.professional.features.1",
+      "en": "Priority email"
+    },
+    {
+      "path": "serviceSupport.tiers.items.professional.features.2",
+      "en": "Screen sharing sessions"
+    },
+    {
+      "path": "serviceSupport.tiers.items.professional.features.3",
+      "en": "4-hour response time"
+    },
+    {
+      "path": "serviceSupport.tiers.items.enterprise.features.0",
+      "en": "Dedicated success manager"
+    },
+    {
+      "path": "serviceSupport.tiers.items.enterprise.features.1",
+      "en": "24/7 phone support"
+    },
+    {
+      "path": "serviceSupport.tiers.items.enterprise.features.2",
+      "en": "Custom integrations"
+    },
+    {
+      "path": "serviceSupport.tiers.items.enterprise.features.3",
+      "en": "1-hour response time"
+    },
+    {
+      "path": "serviceSupport.docs.items.faq.title",
+      "en": "FAQ & Troubleshooting"
+    },
+    {
+      "path": "serviceSupport.docs.items.faq.description",
+      "en": "Common questions and solutions"
+    },
+    {
+      "path": "serviceSupport.docs.cta",
+      "en": "Browse Documentation"
+    },
+    {
+      "path": "serviceSupport.cta.title",
+      "en": "Need Help Getting Started?"
+    }
+  ],
+  "ko": [
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.0.name",
+      "en": "invoratec_user"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.1.name",
+      "en": "locale"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.2.name",
+      "en": "region"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.3.name",
+      "en": "cookie_consent"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.0.name",
+      "en": "theme"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.1.name",
+      "en": "recent_projects"
+    },
+    {
+      "path": "blog.tags.ai",
+      "en": "AI"
+    },
+    {
+      "path": "blog.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "blog.tags.mep",
+      "en": "MEP"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.timeSaved",
+      "en": "40%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.costReduction",
+      "en": "25%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.errorReduction",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.timeSaved",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.costReduction",
+      "en": "20%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.errorReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.timeSaved",
+      "en": "45%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.costReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.errorReduction",
+      "en": "50%"
+    },
+    {
+      "path": "cases.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "docs.content.revitAssistant.toolMatching",
+      "en": "Smart Tool Matching"
+    },
+    {
+      "path": "docs.content.revitAssistant.toolMatchingDesc",
+      "en": "The AI automatically matches your request to available tools in your library. If a suitable tool exists, it will suggest using it instead of writing new code."
+    },
+    {
+      "path": "docs.docsContent.web-timeline",
+      "en": "<section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Overview</h2><p class='mb-4'>The Timeline & Gantt view provides visual project scheduling with task dependencies, milestones, and progress tracking. Plan your project timeline and monitor progress in real-time.</p></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Gantt Chart View</h2><p class='mb-4'>The Gantt chart displays tasks as horizontal bars on a timeline. The length of each bar represents the task duration. Tasks are color-coded by status.</p><div class='grid md:grid-cols-4 gap-2 mt-4'><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-gray-300'></span><span class='text-sm text-gray-600'>Not Started</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-blue-500'></span><span class='text-sm text-gray-600'>In Progress</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-green-500'></span><span class='text-sm text-gray-600'>Completed</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-red-500'></span><span class='text-sm text-gray-600'>Overdue</span></div></div></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Scheduling Tasks</h2><p class='mb-4'>Schedule tasks using these methods:</p><ol class='list-decimal pl-6 space-y-2'><li><strong>Drag horizontally:</strong> Move task bars to change start dates</li><li><strong>Drag edges:</strong> Extend or shorten the task duration</li><li><strong>Properties panel:</strong> Set exact dates in the task details</li><li><strong>Quick add:</strong> Click on the timeline to add tasks at specific dates</li></ol></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Task Dependencies</h2><p class='mb-4'>Link tasks together to create dependencies. When a predecessor task moves, dependent tasks automatically adjust.</p><div class='bg-gray-50 rounded-lg p-4 mt-4'><h4 class='font-medium text-gray-900 mb-2'>Dependency Types</h4><ul class='list-disc pl-6 space-y-1 text-sm text-gray-600'><li><strong>Finish-to-Start (FS):</strong> Task B starts when Task A finishes</li><li><strong>Start-to-Start (SS):</strong> Task B starts when Task A starts</li><li><strong>Finish-to-Finish (FF):</strong> Task B finishes when Task A finishes</li><li><strong>Start-to-Finish (SF):</strong> Task B finishes when Task A starts</li></ul></div><p class='mt-4'>Use the Relation property to link tasks together, or drag connection handles between task bars.</p></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Milestones</h2><p class='mb-4'>Mark important project dates as milestones. Milestones appear as diamond shapes on the timeline and can be linked to tasks and deliverables.</p><ul class='list-disc pl-6 space-y-2'><li>Create milestones from the toolbar or convert existing tasks</li><li>Set target dates for key deliverables</li><li>Track milestone completion status</li><li>Receive notifications for approaching milestones</li></ul></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Progress Tracking</h2><p class='mb-4'>Track completion percentage for each task. The Gantt chart shows progress as a filled portion of the task bar.</p><div class='bg-blue-50 border border-blue-200 rounded-lg p-4'><p class='text-blue-800'><strong>Pro Tip:</strong> Use the \"% Complete\" column to quickly update progress across multiple tasks.</p></div></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Timeline Scale</h2><p class='mb-4'>Adjust the timeline scale to view your project at different granularities:</p><ul class='list-disc pl-6 space-y-2'><li><strong>Day:</strong> Detailed view for short-term planning</li><li><strong>Week:</strong> Standard view for most projects</li><li><strong>Month:</strong> Overview for long-term projects</li><li><strong>Quarter:</strong> Strategic planning view</li></ul></section>"
+    },
+    {
+      "path": "featuresPage.webFeatures.viewer.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.sets.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.markup.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.elements.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.dateHours.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.assistant.properties.chat.type",
+      "en": "UI"
+    },
+    {
+      "path": "featuresPage.bimFeatures.assistant.properties.recommendations.type",
+      "en": "AI"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.budget.label",
+      "en": "Budget Overview"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.budget.desc",
+      "en": "Track spending and remaining"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.teamHours.label",
+      "en": "Team Hours"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.teamHours.desc",
+      "en": "See team time allocation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.milestones.label",
+      "en": "Milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.milestones.desc",
+      "en": "Upcoming deadlines and deliverables"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.name",
+      "en": "Total Budget"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.desc",
+      "en": "Project budget allocation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.name",
+      "en": "Spent Budget"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.desc",
+      "en": "Actual spending"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.teamMembers.type",
+      "en": "Collection"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.teamMembers.desc",
+      "en": "Team member list"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.name",
+      "en": "Milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.type",
+      "en": "Collection"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.desc",
+      "en": "Project milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.dllPlugins.label",
+      "en": "DLL Plugins"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.pythonScripts.label",
+      "en": "Python Scripts"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.pythonScripts.desc",
+      "en": "Execute Python automation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.csharpScripts.label",
+      "en": "C# Scripts"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.csharpScripts.desc",
+      "en": "Run C# code on-the-fly"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.multiPlugin.label",
+      "en": "Multi-Plugin DLLs"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.multiPlugin.desc",
+      "en": "One DLL can host multiple plugins"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.name.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.name.desc",
+      "en": "Tool display name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.description.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.description.desc",
+      "en": "Tool description"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.category.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.category.desc",
+      "en": "Tool category grouping"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.keywords.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.keywords.desc",
+      "en": "Search keywords"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.name",
+      "en": "Author"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.desc",
+      "en": "Tool creator"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.name",
+      "en": "Version"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.desc",
+      "en": "Version number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.projectCards.label",
+      "en": "Project Cards"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.projectCards.desc",
+      "en": "Visual project overview"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.teamManagement.label",
+      "en": "Team Management"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.teamManagement.desc",
+      "en": "Assign roles and track hours"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.budgetTracking.label",
+      "en": "Budget Tracking"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.budgetTracking.desc",
+      "en": "Monitor costs per team member"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.name.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.name.desc",
+      "en": "Project name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.name",
+      "en": "Client"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.desc",
+      "en": "Client name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.name",
+      "en": "Project Number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.desc",
+      "en": "Project identifier"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.accProjectId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.name",
+      "en": "Invoratec Link Path"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.type",
+      "en": "Path"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.desc",
+      "en": "Model publish folder"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.name",
+      "en": "Completion %"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.desc",
+      "en": "Progress percentage"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.hubBrowser.label",
+      "en": "Hub Browser"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.modelLinking.label",
+      "en": "Model Linking"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.auth.label",
+      "en": "3-Legged Auth"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.fileSync.label",
+      "en": "File Sync"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.fileSync.desc",
+      "en": "Sync models to Invoratec folder"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.hubId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.projectId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.accountId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.name",
+      "en": "Is Authenticated"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.type",
+      "en": "Boolean"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.desc",
+      "en": "Auth status"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.subtitle",
+      "en": "Track team performance and costs"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.name",
+      "en": "Discipline"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.type",
+      "en": "Select"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.desc",
+      "en": "MEP, Structural, Architectural, etc."
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.name",
+      "en": "Hourly Rate"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.desc",
+      "en": "Cost per hour"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.name",
+      "en": "Hours Spent"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.desc",
+      "en": "Logged hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.name",
+      "en": "Budgeted Hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.desc",
+      "en": "Allocated hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.name",
+      "en": "Total Cost"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.type",
+      "en": "Calculated"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.desc",
+      "en": "Rate × Hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.name",
+      "en": "Utilization"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.type",
+      "en": "Calculated"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.desc",
+      "en": "Hours/Budget %"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.subtitle",
+      "en": "Track project deliverables and deadlines"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.name",
+      "en": "Description"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.type",
+      "en": "Long Text"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.desc",
+      "en": "Milestone details"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.name",
+      "en": "Allocated Budget"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.desc",
+      "en": "Budget for this milestone"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.name",
+      "en": "Spent Budget"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.desc",
+      "en": "Amount spent"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.name",
+      "en": "Dependencies"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.type",
+      "en": "Relation"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.desc",
+      "en": "Depends on other milestones"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.name",
+      "en": "Deliverables"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.type",
+      "en": "List"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.desc",
+      "en": "Expected deliverables"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.relations",
+      "en": "Relations"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.autoGenerated",
+      "en": "Auto-Generated"
+    },
+    {
+      "path": "featuresPage.comparison.features.taskManagement",
+      "en": "Task Management (45+ property types)"
+    },
+    {
+      "path": "featuresPage.comparison.features.modelViewer",
+      "en": "3D Model Viewer (APS)"
+    },
+    {
+      "path": "featuresPage.comparison.features.gantt",
+      "en": "Gantt Chart/Timeline"
+    },
+    {
+      "path": "featuresPage.comparison.features.kanban",
+      "en": "Kanban Board"
+    },
+    {
+      "path": "featuresPage.comparison.features.aiAssistant",
+      "en": "AI Assistant (Natural Language)"
+    },
+    {
+      "path": "featuresPage.comparison.features.toolLibrary",
+      "en": "Tool Library (Python/C#/DLL)"
+    },
+    {
+      "path": "featuresPage.comparison.features.shopDrawing",
+      "en": "Shop Drawing Markup"
+    },
+    {
+      "path": "featuresPage.comparison.features.teamBudget",
+      "en": "Team & Budget Tracking"
+    },
+    {
+      "path": "featuresPage.comparison.features.languages",
+      "en": "20+ Languages"
+    },
+    {
+      "path": "featuresPage.cta.downloadAddin",
+      "en": "Download Add-in"
+    },
+    {
+      "path": "featuresPage.availableProperties",
+      "en": "Available Properties"
+    },
+    {
+      "path": "downloadPage.requirements.ram",
+      "en": "RAM"
+    },
+    {
+      "path": "mockUI.tasks.done",
+      "en": "Done"
+    },
+    {
+      "path": "mockUI.viewer.zoom",
+      "en": "Zoom"
+    },
+    {
+      "path": "mockUI.viewer.annotations",
+      "en": "Annotations"
+    },
+    {
+      "path": "mockUI.timeline.progress",
+      "en": "Progress"
+    },
+    {
+      "path": "mockUI.coordination.issues",
+      "en": "Issues"
+    },
+    {
+      "path": "mockUI.coordination.severity",
+      "en": "Severity"
+    },
+    {
+      "path": "mockUI.coordination.discipline",
+      "en": "Discipline"
+    },
+    {
+      "path": "mockUI.ai.askAnything",
+      "en": "Ask anything about your project..."
+    },
+    {
+      "path": "mockUI.ai.suggestions",
+      "en": "Suggestions"
+    },
+    {
+      "path": "mockUI.ai.thinking",
+      "en": "Thinking..."
+    },
+    {
+      "path": "mockUI.ai.send",
+      "en": "Send"
+    },
+    {
+      "path": "mockUI.tools.title",
+      "en": "Tools"
+    },
+    {
+      "path": "mockUI.tools.scripts",
+      "en": "Scripts"
+    },
+    {
+      "path": "mockUI.tools.templates",
+      "en": "Templates"
+    },
+    {
+      "path": "mockUI.tools.automation",
+      "en": "Automation"
+    },
+    {
+      "path": "mockUI.tools.run",
+      "en": "Run"
+    },
+    {
+      "path": "mockUI.tools.edit",
+      "en": "Edit"
+    },
+    {
+      "path": "mockUI.reports.schedule",
+      "en": "Schedule"
+    },
+    {
+      "path": "mockUI.projects.recent",
+      "en": "Recent"
+    },
+    {
+      "path": "mockUI.projects.all",
+      "en": "All Projects"
+    },
+    {
+      "path": "mockUI.projects.create",
+      "en": "Create Project"
+    },
+    {
+      "path": "mockUI.projects.open",
+      "en": "Open"
+    },
+    {
+      "path": "mockUI.acc.sync",
+      "en": "Sync"
+    },
+    {
+      "path": "mockUI.acc.lastSync",
+      "en": "Last Sync"
+    },
+    {
+      "path": "mockUI.acc.connected",
+      "en": "Connected"
+    },
+    {
+      "path": "mockUI.acc.documents",
+      "en": "Documents"
+    },
+    {
+      "path": "mockUI.acc.models",
+      "en": "Models"
+    },
+    {
+      "path": "mockUI.sheets.allSheets",
+      "en": "All Sheets"
+    },
+    {
+      "path": "mockUI.sheets.search",
+      "en": "Search sheets..."
+    }
+  ],
+  "de": [
+    {
+      "path": "nav.blog",
+      "en": "Blog"
+    },
+    {
+      "path": "footer.legal.cookies",
+      "en": "Cookies"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.0.name",
+      "en": "invoratec_user"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.1.name",
+      "en": "locale"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.2.name",
+      "en": "region"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.3.name",
+      "en": "cookie_consent"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.0.name",
+      "en": "theme"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.1.name",
+      "en": "recent_projects"
+    },
+    {
+      "path": "terms.subprocessors.content.subprocessorData.gmail.name",
+      "en": "Gmail / Google Workspace"
+    },
+    {
+      "path": "terms.integrations.content.support",
+      "en": "Support"
+    },
+    {
+      "path": "product.features.bim.dashboard.title",
+      "en": "Dashboard"
+    },
+    {
+      "path": "pricing.plans.starter.name",
+      "en": "Starter"
+    },
+    {
+      "path": "pricing.plans.professional.name",
+      "en": "Professional"
+    },
+    {
+      "path": "pricing.plans.enterprise.name",
+      "en": "Enterprise"
+    },
+    {
+      "path": "about.values.items.innovation.title",
+      "en": "Innovation"
+    },
+    {
+      "path": "blog.hero.title",
+      "en": "Blog"
+    },
+    {
+      "path": "blog.categories.tutorial",
+      "en": "Tutorial"
+    },
+    {
+      "path": "blog.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "blog.tags.innovation",
+      "en": "Innovation"
+    },
+    {
+      "path": "blog.tags.bestPractices",
+      "en": "Best Practices"
+    },
+    {
+      "path": "blog.tags.cloud",
+      "en": "Cloud"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.timeSaved",
+      "en": "40%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.costReduction",
+      "en": "25%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.errorReduction",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.timeSaved",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.costReduction",
+      "en": "20%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.errorReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.timeSaved",
+      "en": "45%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.costReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.errorReduction",
+      "en": "50%"
+    },
+    {
+      "path": "cases.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "docs.sections.installation.title",
+      "en": "Installation"
+    },
+    {
+      "path": "docs.content.webTasks.propText",
+      "en": "Text"
+    },
+    {
+      "path": "docs.content.webTasks.propPerson",
+      "en": "Person"
+    },
+    {
+      "path": "docs.content.webTimeline.dependenciesDesc",
+      "en": "Link tasks together to create dependencies. When a predecessor task moves, dependent tasks automatically adjust. Use the Relation property to link tasks together."
+    },
+    {
+      "path": "docs.content.webTimeline.milestonesDesc",
+      "en": "Mark important project dates as milestones. Milestones appear as diamond shapes on the timeline and can be linked to tasks and deliverables."
+    },
+    {
+      "path": "docs.content.webTimeline.progressDesc",
+      "en": "Track completion percentage for each task. The Gantt chart shows progress as a filled portion of the task bar, making it easy to see which tasks are on track."
+    },
+    {
+      "path": "docs.content.revitAssistant.toolMatching",
+      "en": "Smart Tool Matching"
+    },
+    {
+      "path": "docs.content.revitAssistant.toolMatchingDesc",
+      "en": "The AI automatically matches your request to available tools in your library. If a suitable tool exists, it will suggest using it instead of writing new code."
+    },
+    {
+      "path": "docs.docsContent.web-timeline",
+      "en": "<section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Overview</h2><p class='mb-4'>The Timeline & Gantt view provides visual project scheduling with task dependencies, milestones, and progress tracking. Plan your project timeline and monitor progress in real-time.</p></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Gantt Chart View</h2><p class='mb-4'>The Gantt chart displays tasks as horizontal bars on a timeline. The length of each bar represents the task duration. Tasks are color-coded by status.</p><div class='grid md:grid-cols-4 gap-2 mt-4'><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-gray-300'></span><span class='text-sm text-gray-600'>Not Started</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-blue-500'></span><span class='text-sm text-gray-600'>In Progress</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-green-500'></span><span class='text-sm text-gray-600'>Completed</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-red-500'></span><span class='text-sm text-gray-600'>Overdue</span></div></div></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Scheduling Tasks</h2><p class='mb-4'>Schedule tasks using these methods:</p><ol class='list-decimal pl-6 space-y-2'><li><strong>Drag horizontally:</strong> Move task bars to change start dates</li><li><strong>Drag edges:</strong> Extend or shorten the task duration</li><li><strong>Properties panel:</strong> Set exact dates in the task details</li><li><strong>Quick add:</strong> Click on the timeline to add tasks at specific dates</li></ol></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Task Dependencies</h2><p class='mb-4'>Link tasks together to create dependencies. When a predecessor task moves, dependent tasks automatically adjust.</p><div class='bg-gray-50 rounded-lg p-4 mt-4'><h4 class='font-medium text-gray-900 mb-2'>Dependency Types</h4><ul class='list-disc pl-6 space-y-1 text-sm text-gray-600'><li><strong>Finish-to-Start (FS):</strong> Task B starts when Task A finishes</li><li><strong>Start-to-Start (SS):</strong> Task B starts when Task A starts</li><li><strong>Finish-to-Finish (FF):</strong> Task B finishes when Task A finishes</li><li><strong>Start-to-Finish (SF):</strong> Task B finishes when Task A starts</li></ul></div><p class='mt-4'>Use the Relation property to link tasks together, or drag connection handles between task bars.</p></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Milestones</h2><p class='mb-4'>Mark important project dates as milestones. Milestones appear as diamond shapes on the timeline and can be linked to tasks and deliverables.</p><ul class='list-disc pl-6 space-y-2'><li>Create milestones from the toolbar or convert existing tasks</li><li>Set target dates for key deliverables</li><li>Track milestone completion status</li><li>Receive notifications for approaching milestones</li></ul></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Progress Tracking</h2><p class='mb-4'>Track completion percentage for each task. The Gantt chart shows progress as a filled portion of the task bar.</p><div class='bg-blue-50 border border-blue-200 rounded-lg p-4'><p class='text-blue-800'><strong>Pro Tip:</strong> Use the \"% Complete\" column to quickly update progress across multiple tasks.</p></div></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Timeline Scale</h2><p class='mb-4'>Adjust the timeline scale to view your project at different granularities:</p><ul class='list-disc pl-6 space-y-2'><li><strong>Day:</strong> Detailed view for short-term planning</li><li><strong>Week:</strong> Standard view for most projects</li><li><strong>Month:</strong> Overview for long-term projects</li><li><strong>Quarter:</strong> Strategic planning view</li></ul></section>"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.text.name",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.status.name",
+      "en": "Status"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.person.name",
+      "en": "Person"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.url.type",
+      "en": "Links"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.relation.name",
+      "en": "Relation"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.rollup.name",
+      "en": "Rollup"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.createdTime.type",
+      "en": "Auto"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.createdBy.type",
+      "en": "Auto"
+    },
+    {
+      "path": "featuresPage.webFeatures.viewer.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.timeline.highlights.dragDrop.label",
+      "en": "Drag & Drop"
+    },
+    {
+      "path": "featuresPage.webFeatures.timeline.properties.dependencies.type",
+      "en": "Relation"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.sets.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.status.type",
+      "en": "Status"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.markup.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.revision.name",
+      "en": "Revision"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.approval.type",
+      "en": "Status"
+    },
+    {
+      "path": "featuresPage.webFeatures.reports.highlights.dashboard.label",
+      "en": "Dashboard"
+    },
+    {
+      "path": "featuresPage.webFeatures.reports.properties.budget.name",
+      "en": "Budget"
+    },
+    {
+      "path": "featuresPage.webFeatures.reports.properties.rollup.name",
+      "en": "Rollup"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.elements.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.dateHours.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.assistant.properties.chat.type",
+      "en": "UI"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.budget.label",
+      "en": "Budget Overview"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.budget.desc",
+      "en": "Track spending and remaining"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.teamHours.label",
+      "en": "Team Hours"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.teamHours.desc",
+      "en": "See team time allocation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.milestones.label",
+      "en": "Milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.milestones.desc",
+      "en": "Upcoming deadlines and deliverables"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.name",
+      "en": "Total Budget"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.desc",
+      "en": "Project budget allocation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.name",
+      "en": "Spent Budget"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.desc",
+      "en": "Actual spending"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.teamMembers.type",
+      "en": "Collection"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.teamMembers.desc",
+      "en": "Team member list"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.name",
+      "en": "Milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.type",
+      "en": "Collection"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.desc",
+      "en": "Project milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.dllPlugins.label",
+      "en": "DLL Plugins"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.pythonScripts.label",
+      "en": "Python Scripts"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.pythonScripts.desc",
+      "en": "Execute Python automation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.csharpScripts.label",
+      "en": "C# Scripts"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.csharpScripts.desc",
+      "en": "Run C# code on-the-fly"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.multiPlugin.label",
+      "en": "Multi-Plugin DLLs"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.multiPlugin.desc",
+      "en": "One DLL can host multiple plugins"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.name.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.name.desc",
+      "en": "Tool display name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.description.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.description.desc",
+      "en": "Tool description"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.category.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.category.desc",
+      "en": "Tool category grouping"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.keywords.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.keywords.desc",
+      "en": "Search keywords"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.name",
+      "en": "Author"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.desc",
+      "en": "Tool creator"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.name",
+      "en": "Version"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.desc",
+      "en": "Version number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.projectCards.label",
+      "en": "Project Cards"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.projectCards.desc",
+      "en": "Visual project overview"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.teamManagement.label",
+      "en": "Team Management"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.teamManagement.desc",
+      "en": "Assign roles and track hours"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.budgetTracking.label",
+      "en": "Budget Tracking"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.budgetTracking.desc",
+      "en": "Monitor costs per team member"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.name.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.name.desc",
+      "en": "Project name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.name",
+      "en": "Client"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.desc",
+      "en": "Client name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.name",
+      "en": "Project Number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.desc",
+      "en": "Project identifier"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.accProjectId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.name",
+      "en": "Invoratec Link Path"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.type",
+      "en": "Path"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.desc",
+      "en": "Model publish folder"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.status.name",
+      "en": "Status"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.name",
+      "en": "Completion %"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.desc",
+      "en": "Progress percentage"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.hubBrowser.label",
+      "en": "Hub Browser"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.modelLinking.label",
+      "en": "Model Linking"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.auth.label",
+      "en": "3-Legged Auth"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.fileSync.label",
+      "en": "File Sync"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.fileSync.desc",
+      "en": "Sync models to Invoratec folder"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.hubId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.projectId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.accountId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.name",
+      "en": "Is Authenticated"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.type",
+      "en": "Boolean"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.desc",
+      "en": "Auth status"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.subtitle",
+      "en": "Track team performance and costs"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.name",
+      "en": "Discipline"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.type",
+      "en": "Select"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.desc",
+      "en": "MEP, Structural, Architectural, etc."
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.name",
+      "en": "Hourly Rate"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.desc",
+      "en": "Cost per hour"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.name",
+      "en": "Hours Spent"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.desc",
+      "en": "Logged hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.name",
+      "en": "Budgeted Hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.desc",
+      "en": "Allocated hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.name",
+      "en": "Total Cost"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.type",
+      "en": "Calculated"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.desc",
+      "en": "Rate × Hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.name",
+      "en": "Utilization"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.type",
+      "en": "Calculated"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.desc",
+      "en": "Hours/Budget %"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.subtitle",
+      "en": "Track project deliverables and deadlines"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.name",
+      "en": "Description"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.type",
+      "en": "Long Text"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.desc",
+      "en": "Milestone details"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.name",
+      "en": "Allocated Budget"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.desc",
+      "en": "Budget for this milestone"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.name",
+      "en": "Spent Budget"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.desc",
+      "en": "Amount spent"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.name",
+      "en": "Dependencies"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.type",
+      "en": "Relation"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.desc",
+      "en": "Depends on other milestones"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.name",
+      "en": "Deliverables"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.type",
+      "en": "List"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.desc",
+      "en": "Expected deliverables"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.links",
+      "en": "Links"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.relations",
+      "en": "Relations"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.autoGenerated",
+      "en": "Auto-Generated"
+    },
+    {
+      "path": "featuresPage.comparison.features.taskManagement",
+      "en": "Task Management (45+ property types)"
+    },
+    {
+      "path": "featuresPage.comparison.features.modelViewer",
+      "en": "3D Model Viewer (APS)"
+    },
+    {
+      "path": "featuresPage.comparison.features.gantt",
+      "en": "Gantt Chart/Timeline"
+    },
+    {
+      "path": "featuresPage.comparison.features.kanban",
+      "en": "Kanban Board"
+    },
+    {
+      "path": "featuresPage.comparison.features.aiAssistant",
+      "en": "AI Assistant (Natural Language)"
+    },
+    {
+      "path": "featuresPage.comparison.features.toolLibrary",
+      "en": "Tool Library (Python/C#/DLL)"
+    },
+    {
+      "path": "featuresPage.comparison.features.shopDrawing",
+      "en": "Shop Drawing Markup"
+    },
+    {
+      "path": "featuresPage.comparison.features.teamBudget",
+      "en": "Team & Budget Tracking"
+    },
+    {
+      "path": "featuresPage.comparison.features.languages",
+      "en": "20+ Languages"
+    },
+    {
+      "path": "featuresPage.cta.downloadAddin",
+      "en": "Download Add-in"
+    },
+    {
+      "path": "featuresPage.availableProperties",
+      "en": "Available Properties"
+    },
+    {
+      "path": "serviceSupport.tiers.items.standard.title",
+      "en": "Standard"
+    },
+    {
+      "path": "serviceSupport.tiers.items.professional.title",
+      "en": "Professional"
+    },
+    {
+      "path": "serviceSupport.tiers.items.enterprise.title",
+      "en": "Enterprise"
+    },
+    {
+      "path": "downloadPage.requirements.ram",
+      "en": "RAM"
+    },
+    {
+      "path": "downloadPage.requirements.internet",
+      "en": "Internet"
+    },
+    {
+      "path": "activityDetail.sections.agenda",
+      "en": "Agenda"
+    },
+    {
+      "path": "activityDetail.sections.highlights",
+      "en": "Highlights"
+    },
+    {
+      "path": "activityDetail.sections.format",
+      "en": "Format"
+    },
+    {
+      "path": "activityDetail.sections.formatOnline",
+      "en": "Online"
+    },
+    {
+      "path": "mockUI.tasks.filter",
+      "en": "Filter"
+    },
+    {
+      "path": "mockUI.tasks.status",
+      "en": "Status"
+    },
+    {
+      "path": "mockUI.tasks.done",
+      "en": "Done"
+    },
+    {
+      "path": "mockUI.viewer.zoom",
+      "en": "Zoom"
+    },
+    {
+      "path": "mockUI.viewer.annotations",
+      "en": "Annotations"
+    },
+    {
+      "path": "mockUI.timeline.phase",
+      "en": "Phase"
+    },
+    {
+      "path": "mockUI.timeline.progress",
+      "en": "Progress"
+    },
+    {
+      "path": "mockUI.coordination.issues",
+      "en": "Issues"
+    },
+    {
+      "path": "mockUI.coordination.severity",
+      "en": "Severity"
+    },
+    {
+      "path": "mockUI.coordination.discipline",
+      "en": "Discipline"
+    },
+    {
+      "path": "mockUI.ai.askAnything",
+      "en": "Ask anything about your project..."
+    },
+    {
+      "path": "mockUI.ai.suggestions",
+      "en": "Suggestions"
+    },
+    {
+      "path": "mockUI.ai.thinking",
+      "en": "Thinking..."
+    },
+    {
+      "path": "mockUI.ai.send",
+      "en": "Send"
+    },
+    {
+      "path": "mockUI.tools.title",
+      "en": "Tools"
+    },
+    {
+      "path": "mockUI.tools.scripts",
+      "en": "Scripts"
+    },
+    {
+      "path": "mockUI.tools.templates",
+      "en": "Templates"
+    },
+    {
+      "path": "mockUI.tools.automation",
+      "en": "Automation"
+    },
+    {
+      "path": "mockUI.tools.run",
+      "en": "Run"
+    },
+    {
+      "path": "mockUI.tools.edit",
+      "en": "Edit"
+    },
+    {
+      "path": "mockUI.reports.schedule",
+      "en": "Schedule"
+    },
+    {
+      "path": "mockUI.projects.recent",
+      "en": "Recent"
+    },
+    {
+      "path": "mockUI.projects.all",
+      "en": "All Projects"
+    },
+    {
+      "path": "mockUI.projects.create",
+      "en": "Create Project"
+    },
+    {
+      "path": "mockUI.projects.open",
+      "en": "Open"
+    },
+    {
+      "path": "mockUI.acc.sync",
+      "en": "Sync"
+    },
+    {
+      "path": "mockUI.acc.lastSync",
+      "en": "Last Sync"
+    },
+    {
+      "path": "mockUI.acc.connected",
+      "en": "Connected"
+    },
+    {
+      "path": "mockUI.acc.documents",
+      "en": "Documents"
+    },
+    {
+      "path": "mockUI.acc.models",
+      "en": "Models"
+    },
+    {
+      "path": "mockUI.sheets.allSheets",
+      "en": "All Sheets"
+    },
+    {
+      "path": "mockUI.sheets.search",
+      "en": "Search sheets..."
+    }
+  ],
+  "fr": [
+    {
+      "path": "nav.blog",
+      "en": "Blog"
+    },
+    {
+      "path": "footer.resources.docs",
+      "en": "Documentation"
+    },
+    {
+      "path": "footer.company_links.contact",
+      "en": "Contact"
+    },
+    {
+      "path": "footer.legal.cookies",
+      "en": "Cookies"
+    },
+    {
+      "path": "footer.legal.dpa",
+      "en": "DPA"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.0.name",
+      "en": "invoratec_user"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.1.name",
+      "en": "locale"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.2.name",
+      "en": "region"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.3.name",
+      "en": "cookie_consent"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.0.name",
+      "en": "theme"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.1.name",
+      "en": "recent_projects"
+    },
+    {
+      "path": "terms.subprocessors.content.subprocessorData.gmail.name",
+      "en": "Gmail / Google Workspace"
+    },
+    {
+      "path": "terms.integrations.content.support",
+      "en": "Support"
+    },
+    {
+      "path": "pricing.plans.starter.name",
+      "en": "Starter"
+    },
+    {
+      "path": "pricing.plans.enterprise.name",
+      "en": "Enterprise"
+    },
+    {
+      "path": "about.values.items.innovation.title",
+      "en": "Innovation"
+    },
+    {
+      "path": "about.values.items.collaboration.title",
+      "en": "Collaboration"
+    },
+    {
+      "path": "about.values.items.impact.title",
+      "en": "Impact"
+    },
+    {
+      "path": "blog.hero.title",
+      "en": "Blog"
+    },
+    {
+      "path": "blog.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "blog.tags.innovation",
+      "en": "Innovation"
+    },
+    {
+      "path": "blog.tags.guide",
+      "en": "Guide"
+    },
+    {
+      "path": "blog.tags.mep",
+      "en": "MEP"
+    },
+    {
+      "path": "blog.tags.coordination",
+      "en": "Coordination"
+    },
+    {
+      "path": "blog.tags.cloud",
+      "en": "Cloud"
+    },
+    {
+      "path": "blog.tags.collaboration",
+      "en": "Collaboration"
+    },
+    {
+      "path": "cases.solutionTitle",
+      "en": "Solution"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.timeSaved",
+      "en": "40%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.costReduction",
+      "en": "25%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.errorReduction",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.timeSaved",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.costReduction",
+      "en": "20%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.errorReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.timeSaved",
+      "en": "45%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.costReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.errorReduction",
+      "en": "50%"
+    },
+    {
+      "path": "cases.industries.commercial",
+      "en": "Commercial"
+    },
+    {
+      "path": "cases.industries.infrastructure",
+      "en": "Infrastructure"
+    },
+    {
+      "path": "cases.tags.commercial",
+      "en": "Commercial"
+    },
+    {
+      "path": "cases.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "cases.tags.coordination",
+      "en": "Coordination"
+    },
+    {
+      "path": "cases.tags.infrastructure",
+      "en": "Infrastructure"
+    },
+    {
+      "path": "docs.navigation",
+      "en": "Documentation"
+    },
+    {
+      "path": "docs.sections.installation.title",
+      "en": "Installation"
+    },
+    {
+      "path": "docs.sections.configuration.title",
+      "en": "Configuration"
+    },
+    {
+      "path": "docs.sections.web-coordination.title",
+      "en": "Coordination"
+    },
+    {
+      "path": "docs.content.api.description",
+      "en": "Description"
+    },
+    {
+      "path": "docs.content.webTasks.propDate",
+      "en": "Date"
+    },
+    {
+      "path": "docs.content.webTimeline.ganttViewDesc",
+      "en": "The Gantt chart displays tasks as horizontal bars on a timeline. The length of each bar represents the task duration. Tasks are color-coded by status."
+    },
+    {
+      "path": "docs.content.webTimeline.schedStep1",
+      "en": "Drag task bars horizontally to change start dates"
+    },
+    {
+      "path": "docs.content.webTimeline.schedStep2",
+      "en": "Drag the edges of task bars to adjust duration"
+    },
+    {
+      "path": "docs.content.webTimeline.schedStep3",
+      "en": "Set dates directly in the task properties panel"
+    },
+    {
+      "path": "docs.content.webTimeline.dependenciesDesc",
+      "en": "Link tasks together to create dependencies. When a predecessor task moves, dependent tasks automatically adjust. Use the Relation property to link tasks together."
+    },
+    {
+      "path": "docs.content.webTimeline.milestonesDesc",
+      "en": "Mark important project dates as milestones. Milestones appear as diamond shapes on the timeline and can be linked to tasks and deliverables."
+    },
+    {
+      "path": "docs.content.webTimeline.progressDesc",
+      "en": "Track completion percentage for each task. The Gantt chart shows progress as a filled portion of the task bar, making it easy to see which tasks are on track."
+    },
+    {
+      "path": "docs.content.revitAssistant.toolMatching",
+      "en": "Smart Tool Matching"
+    },
+    {
+      "path": "docs.content.revitAssistant.toolMatchingDesc",
+      "en": "The AI automatically matches your request to available tools in your library. If a suitable tool exists, it will suggest using it instead of writing new code."
+    },
+    {
+      "path": "docs.docsContent.web-timeline",
+      "en": "<section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Overview</h2><p class='mb-4'>The Timeline & Gantt view provides visual project scheduling with task dependencies, milestones, and progress tracking. Plan your project timeline and monitor progress in real-time.</p></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Gantt Chart View</h2><p class='mb-4'>The Gantt chart displays tasks as horizontal bars on a timeline. The length of each bar represents the task duration. Tasks are color-coded by status.</p><div class='grid md:grid-cols-4 gap-2 mt-4'><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-gray-300'></span><span class='text-sm text-gray-600'>Not Started</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-blue-500'></span><span class='text-sm text-gray-600'>In Progress</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-green-500'></span><span class='text-sm text-gray-600'>Completed</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-red-500'></span><span class='text-sm text-gray-600'>Overdue</span></div></div></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Scheduling Tasks</h2><p class='mb-4'>Schedule tasks using these methods:</p><ol class='list-decimal pl-6 space-y-2'><li><strong>Drag horizontally:</strong> Move task bars to change start dates</li><li><strong>Drag edges:</strong> Extend or shorten the task duration</li><li><strong>Properties panel:</strong> Set exact dates in the task details</li><li><strong>Quick add:</strong> Click on the timeline to add tasks at specific dates</li></ol></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Task Dependencies</h2><p class='mb-4'>Link tasks together to create dependencies. When a predecessor task moves, dependent tasks automatically adjust.</p><div class='bg-gray-50 rounded-lg p-4 mt-4'><h4 class='font-medium text-gray-900 mb-2'>Dependency Types</h4><ul class='list-disc pl-6 space-y-1 text-sm text-gray-600'><li><strong>Finish-to-Start (FS):</strong> Task B starts when Task A finishes</li><li><strong>Start-to-Start (SS):</strong> Task B starts when Task A starts</li><li><strong>Finish-to-Finish (FF):</strong> Task B finishes when Task A finishes</li><li><strong>Start-to-Finish (SF):</strong> Task B finishes when Task A starts</li></ul></div><p class='mt-4'>Use the Relation property to link tasks together, or drag connection handles between task bars.</p></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Milestones</h2><p class='mb-4'>Mark important project dates as milestones. Milestones appear as diamond shapes on the timeline and can be linked to tasks and deliverables.</p><ul class='list-disc pl-6 space-y-2'><li>Create milestones from the toolbar or convert existing tasks</li><li>Set target dates for key deliverables</li><li>Track milestone completion status</li><li>Receive notifications for approaching milestones</li></ul></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Progress Tracking</h2><p class='mb-4'>Track completion percentage for each task. The Gantt chart shows progress as a filled portion of the task bar.</p><div class='bg-blue-50 border border-blue-200 rounded-lg p-4'><p class='text-blue-800'><strong>Pro Tip:</strong> Use the \"% Complete\" column to quickly update progress across multiple tasks.</p></div></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Timeline Scale</h2><p class='mb-4'>Adjust the timeline scale to view your project at different granularities:</p><ul class='list-disc pl-6 space-y-2'><li><strong>Day:</strong> Detailed view for short-term planning</li><li><strong>Week:</strong> Standard view for most projects</li><li><strong>Month:</strong> Overview for long-term projects</li><li><strong>Quarter:</strong> Strategic planning view</li></ul></section>"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.relation.name",
+      "en": "Relation"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.rollup.name",
+      "en": "Rollup"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.createdTime.type",
+      "en": "Auto"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.createdBy.type",
+      "en": "Auto"
+    },
+    {
+      "path": "featuresPage.webFeatures.viewer.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.timeline.properties.startDate.type",
+      "en": "Date"
+    },
+    {
+      "path": "featuresPage.webFeatures.timeline.properties.endDate.type",
+      "en": "Date"
+    },
+    {
+      "path": "featuresPage.webFeatures.timeline.properties.dependencies.type",
+      "en": "Relation"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.title",
+      "en": "Coordination"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.sets.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.discipline.name",
+      "en": "Discipline"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.markup.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.reports.properties.budget.name",
+      "en": "Budget"
+    },
+    {
+      "path": "featuresPage.webFeatures.reports.properties.rollup.name",
+      "en": "Rollup"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.elements.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.dateHours.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.assistant.properties.chat.type",
+      "en": "UI"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.budget.label",
+      "en": "Budget Overview"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.budget.desc",
+      "en": "Track spending and remaining"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.teamHours.label",
+      "en": "Team Hours"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.teamHours.desc",
+      "en": "See team time allocation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.milestones.label",
+      "en": "Milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.milestones.desc",
+      "en": "Upcoming deadlines and deliverables"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.name",
+      "en": "Total Budget"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.desc",
+      "en": "Project budget allocation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.name",
+      "en": "Spent Budget"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.desc",
+      "en": "Actual spending"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.teamMembers.type",
+      "en": "Collection"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.teamMembers.desc",
+      "en": "Team member list"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.name",
+      "en": "Milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.type",
+      "en": "Collection"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.desc",
+      "en": "Project milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.dllPlugins.label",
+      "en": "DLL Plugins"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.pythonScripts.label",
+      "en": "Python Scripts"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.pythonScripts.desc",
+      "en": "Execute Python automation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.csharpScripts.label",
+      "en": "C# Scripts"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.csharpScripts.desc",
+      "en": "Run C# code on-the-fly"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.multiPlugin.label",
+      "en": "Multi-Plugin DLLs"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.multiPlugin.desc",
+      "en": "One DLL can host multiple plugins"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.name.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.name.desc",
+      "en": "Tool display name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.description.name",
+      "en": "Description"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.description.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.description.desc",
+      "en": "Tool description"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.category.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.category.desc",
+      "en": "Tool category grouping"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.keywords.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.keywords.desc",
+      "en": "Search keywords"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.name",
+      "en": "Author"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.desc",
+      "en": "Tool creator"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.name",
+      "en": "Version"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.desc",
+      "en": "Version number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.projectCards.label",
+      "en": "Project Cards"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.projectCards.desc",
+      "en": "Visual project overview"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.teamManagement.label",
+      "en": "Team Management"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.teamManagement.desc",
+      "en": "Assign roles and track hours"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.budgetTracking.label",
+      "en": "Budget Tracking"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.budgetTracking.desc",
+      "en": "Monitor costs per team member"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.name.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.name.desc",
+      "en": "Project name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.name",
+      "en": "Client"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.desc",
+      "en": "Client name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.name",
+      "en": "Project Number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.desc",
+      "en": "Project identifier"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.accProjectId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.name",
+      "en": "Invoratec Link Path"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.type",
+      "en": "Path"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.desc",
+      "en": "Model publish folder"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.name",
+      "en": "Completion %"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.desc",
+      "en": "Progress percentage"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.hubBrowser.label",
+      "en": "Hub Browser"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.modelLinking.label",
+      "en": "Model Linking"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.auth.label",
+      "en": "3-Legged Auth"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.fileSync.label",
+      "en": "File Sync"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.fileSync.desc",
+      "en": "Sync models to Invoratec folder"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.hubId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.projectId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.accountId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.name",
+      "en": "Is Authenticated"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.type",
+      "en": "Boolean"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.desc",
+      "en": "Auth status"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.subtitle",
+      "en": "Track team performance and costs"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.name",
+      "en": "Discipline"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.type",
+      "en": "Select"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.desc",
+      "en": "MEP, Structural, Architectural, etc."
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.name",
+      "en": "Hourly Rate"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.desc",
+      "en": "Cost per hour"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.name",
+      "en": "Hours Spent"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.desc",
+      "en": "Logged hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.name",
+      "en": "Budgeted Hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.desc",
+      "en": "Allocated hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.name",
+      "en": "Total Cost"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.type",
+      "en": "Calculated"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.desc",
+      "en": "Rate × Hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.name",
+      "en": "Utilization"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.type",
+      "en": "Calculated"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.desc",
+      "en": "Hours/Budget %"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.subtitle",
+      "en": "Track project deliverables and deadlines"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.name",
+      "en": "Description"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.type",
+      "en": "Long Text"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.desc",
+      "en": "Milestone details"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.name",
+      "en": "Allocated Budget"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.desc",
+      "en": "Budget for this milestone"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.name",
+      "en": "Spent Budget"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.desc",
+      "en": "Amount spent"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.name",
+      "en": "Dependencies"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.type",
+      "en": "Relation"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.desc",
+      "en": "Depends on other milestones"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.name",
+      "en": "Deliverables"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.type",
+      "en": "List"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.desc",
+      "en": "Expected deliverables"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.relations",
+      "en": "Relations"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.autoGenerated",
+      "en": "Auto-Generated"
+    },
+    {
+      "path": "featuresPage.comparison.features.taskManagement",
+      "en": "Task Management (45+ property types)"
+    },
+    {
+      "path": "featuresPage.comparison.features.modelViewer",
+      "en": "3D Model Viewer (APS)"
+    },
+    {
+      "path": "featuresPage.comparison.features.gantt",
+      "en": "Gantt Chart/Timeline"
+    },
+    {
+      "path": "featuresPage.comparison.features.kanban",
+      "en": "Kanban Board"
+    },
+    {
+      "path": "featuresPage.comparison.features.aiAssistant",
+      "en": "AI Assistant (Natural Language)"
+    },
+    {
+      "path": "featuresPage.comparison.features.toolLibrary",
+      "en": "Tool Library (Python/C#/DLL)"
+    },
+    {
+      "path": "featuresPage.comparison.features.shopDrawing",
+      "en": "Shop Drawing Markup"
+    },
+    {
+      "path": "featuresPage.comparison.features.teamBudget",
+      "en": "Team & Budget Tracking"
+    },
+    {
+      "path": "featuresPage.comparison.features.languages",
+      "en": "20+ Languages"
+    },
+    {
+      "path": "featuresPage.cta.downloadAddin",
+      "en": "Download Add-in"
+    },
+    {
+      "path": "featuresPage.availableProperties",
+      "en": "Available Properties"
+    },
+    {
+      "path": "serviceBIM.services.items.coordination.title",
+      "en": "Coordination"
+    },
+    {
+      "path": "serviceSupport.tiers.items.standard.title",
+      "en": "Standard"
+    },
+    {
+      "path": "downloadPage.requirements.ram",
+      "en": "RAM"
+    },
+    {
+      "path": "downloadPage.requirements.internet",
+      "en": "Internet"
+    },
+    {
+      "path": "activityRegistration.success.date",
+      "en": "Date"
+    },
+    {
+      "path": "activityDetail.sections.agenda",
+      "en": "Agenda"
+    },
+    {
+      "path": "activityDetail.sections.date",
+      "en": "Date"
+    },
+    {
+      "path": "activityDetail.sections.format",
+      "en": "Format"
+    },
+    {
+      "path": "caseStudyDetail.projectInfo.client",
+      "en": "Client"
+    },
+    {
+      "path": "blogDetail.conclusion",
+      "en": "Conclusion"
+    },
+    {
+      "path": "mockUI.tasks.done",
+      "en": "Done"
+    },
+    {
+      "path": "mockUI.viewer.zoom",
+      "en": "Zoom"
+    },
+    {
+      "path": "mockUI.viewer.section",
+      "en": "Section"
+    },
+    {
+      "path": "mockUI.viewer.annotations",
+      "en": "Annotations"
+    },
+    {
+      "path": "mockUI.timeline.phase",
+      "en": "Phase"
+    },
+    {
+      "path": "mockUI.timeline.progress",
+      "en": "Progress"
+    },
+    {
+      "path": "mockUI.coordination.title",
+      "en": "Coordination"
+    },
+    {
+      "path": "mockUI.coordination.issues",
+      "en": "Issues"
+    },
+    {
+      "path": "mockUI.coordination.severity",
+      "en": "Severity"
+    },
+    {
+      "path": "mockUI.coordination.discipline",
+      "en": "Discipline"
+    },
+    {
+      "path": "mockUI.ai.askAnything",
+      "en": "Ask anything about your project..."
+    },
+    {
+      "path": "mockUI.ai.suggestions",
+      "en": "Suggestions"
+    },
+    {
+      "path": "mockUI.ai.thinking",
+      "en": "Thinking..."
+    },
+    {
+      "path": "mockUI.ai.send",
+      "en": "Send"
+    },
+    {
+      "path": "mockUI.tools.title",
+      "en": "Tools"
+    },
+    {
+      "path": "mockUI.tools.scripts",
+      "en": "Scripts"
+    },
+    {
+      "path": "mockUI.tools.templates",
+      "en": "Templates"
+    },
+    {
+      "path": "mockUI.tools.automation",
+      "en": "Automation"
+    },
+    {
+      "path": "mockUI.tools.run",
+      "en": "Run"
+    },
+    {
+      "path": "mockUI.tools.edit",
+      "en": "Edit"
+    },
+    {
+      "path": "mockUI.reports.schedule",
+      "en": "Schedule"
+    },
+    {
+      "path": "mockUI.projects.recent",
+      "en": "Recent"
+    },
+    {
+      "path": "mockUI.projects.all",
+      "en": "All Projects"
+    },
+    {
+      "path": "mockUI.projects.create",
+      "en": "Create Project"
+    },
+    {
+      "path": "mockUI.projects.open",
+      "en": "Open"
+    },
+    {
+      "path": "mockUI.acc.sync",
+      "en": "Sync"
+    },
+    {
+      "path": "mockUI.acc.lastSync",
+      "en": "Last Sync"
+    },
+    {
+      "path": "mockUI.acc.connected",
+      "en": "Connected"
+    },
+    {
+      "path": "mockUI.acc.documents",
+      "en": "Documents"
+    },
+    {
+      "path": "mockUI.acc.models",
+      "en": "Models"
+    },
+    {
+      "path": "mockUI.sheets.allSheets",
+      "en": "All Sheets"
+    },
+    {
+      "path": "mockUI.sheets.search",
+      "en": "Search sheets..."
+    }
+  ],
+  "es": [
+    {
+      "path": "nav.blog",
+      "en": "Blog"
+    },
+    {
+      "path": "footer.legal.cookies",
+      "en": "Cookies"
+    },
+    {
+      "path": "footer.legal.dpa",
+      "en": "DPA"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.0.name",
+      "en": "invoratec_user"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.1.name",
+      "en": "locale"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.2.name",
+      "en": "region"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.3.name",
+      "en": "cookie_consent"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.0.name",
+      "en": "theme"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.1.name",
+      "en": "recent_projects"
+    },
+    {
+      "path": "terms.subprocessors.content.subprocessorData.gmail.name",
+      "en": "Gmail / Google Workspace"
+    },
+    {
+      "path": "terms.ai.content.section7.general",
+      "en": "General"
+    },
+    {
+      "path": "pricing.plans.starter.name",
+      "en": "Starter"
+    },
+    {
+      "path": "pricing.plans.starter.price",
+      "en": "$99"
+    },
+    {
+      "path": "pricing.plans.professional.price",
+      "en": "$449"
+    },
+    {
+      "path": "pricing.plans.enterprise.name",
+      "en": "Enterprise"
+    },
+    {
+      "path": "blog.hero.title",
+      "en": "Blog"
+    },
+    {
+      "path": "blog.categories.tutorial",
+      "en": "Tutorial"
+    },
+    {
+      "path": "blog.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "blog.tags.mep",
+      "en": "MEP"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.timeSaved",
+      "en": "40%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.costReduction",
+      "en": "25%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.errorReduction",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.timeSaved",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.costReduction",
+      "en": "20%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.errorReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.timeSaved",
+      "en": "45%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.costReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.errorReduction",
+      "en": "50%"
+    },
+    {
+      "path": "cases.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "docs.content.api.endpoint",
+      "en": "Endpoint"
+    },
+    {
+      "path": "docs.content.webTimeline.ganttViewDesc",
+      "en": "The Gantt chart displays tasks as horizontal bars on a timeline. The length of each bar represents the task duration. Tasks are color-coded by status."
+    },
+    {
+      "path": "docs.content.webTimeline.schedStep1",
+      "en": "Drag task bars horizontally to change start dates"
+    },
+    {
+      "path": "docs.content.webTimeline.schedStep2",
+      "en": "Drag the edges of task bars to adjust duration"
+    },
+    {
+      "path": "docs.content.webTimeline.schedStep3",
+      "en": "Set dates directly in the task properties panel"
+    },
+    {
+      "path": "docs.content.webTimeline.dependenciesDesc",
+      "en": "Link tasks together to create dependencies. When a predecessor task moves, dependent tasks automatically adjust. Use the Relation property to link tasks together."
+    },
+    {
+      "path": "docs.content.webTimeline.milestonesDesc",
+      "en": "Mark important project dates as milestones. Milestones appear as diamond shapes on the timeline and can be linked to tasks and deliverables."
+    },
+    {
+      "path": "docs.content.webTimeline.progressDesc",
+      "en": "Track completion percentage for each task. The Gantt chart shows progress as a filled portion of the task bar, making it easy to see which tasks are on track."
+    },
+    {
+      "path": "docs.content.revitAssistant.toolMatching",
+      "en": "Smart Tool Matching"
+    },
+    {
+      "path": "docs.content.revitAssistant.toolMatchingDesc",
+      "en": "The AI automatically matches your request to available tools in your library. If a suitable tool exists, it will suggest using it instead of writing new code."
+    },
+    {
+      "path": "docs.docsContent.web-timeline",
+      "en": "<section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Overview</h2><p class='mb-4'>The Timeline & Gantt view provides visual project scheduling with task dependencies, milestones, and progress tracking. Plan your project timeline and monitor progress in real-time.</p></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Gantt Chart View</h2><p class='mb-4'>The Gantt chart displays tasks as horizontal bars on a timeline. The length of each bar represents the task duration. Tasks are color-coded by status.</p><div class='grid md:grid-cols-4 gap-2 mt-4'><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-gray-300'></span><span class='text-sm text-gray-600'>Not Started</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-blue-500'></span><span class='text-sm text-gray-600'>In Progress</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-green-500'></span><span class='text-sm text-gray-600'>Completed</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-red-500'></span><span class='text-sm text-gray-600'>Overdue</span></div></div></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Scheduling Tasks</h2><p class='mb-4'>Schedule tasks using these methods:</p><ol class='list-decimal pl-6 space-y-2'><li><strong>Drag horizontally:</strong> Move task bars to change start dates</li><li><strong>Drag edges:</strong> Extend or shorten the task duration</li><li><strong>Properties panel:</strong> Set exact dates in the task details</li><li><strong>Quick add:</strong> Click on the timeline to add tasks at specific dates</li></ol></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Task Dependencies</h2><p class='mb-4'>Link tasks together to create dependencies. When a predecessor task moves, dependent tasks automatically adjust.</p><div class='bg-gray-50 rounded-lg p-4 mt-4'><h4 class='font-medium text-gray-900 mb-2'>Dependency Types</h4><ul class='list-disc pl-6 space-y-1 text-sm text-gray-600'><li><strong>Finish-to-Start (FS):</strong> Task B starts when Task A finishes</li><li><strong>Start-to-Start (SS):</strong> Task B starts when Task A starts</li><li><strong>Finish-to-Finish (FF):</strong> Task B finishes when Task A finishes</li><li><strong>Start-to-Finish (SF):</strong> Task B finishes when Task A starts</li></ul></div><p class='mt-4'>Use the Relation property to link tasks together, or drag connection handles between task bars.</p></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Milestones</h2><p class='mb-4'>Mark important project dates as milestones. Milestones appear as diamond shapes on the timeline and can be linked to tasks and deliverables.</p><ul class='list-disc pl-6 space-y-2'><li>Create milestones from the toolbar or convert existing tasks</li><li>Set target dates for key deliverables</li><li>Track milestone completion status</li><li>Receive notifications for approaching milestones</li></ul></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Progress Tracking</h2><p class='mb-4'>Track completion percentage for each task. The Gantt chart shows progress as a filled portion of the task bar.</p><div class='bg-blue-50 border border-blue-200 rounded-lg p-4'><p class='text-blue-800'><strong>Pro Tip:</strong> Use the \"% Complete\" column to quickly update progress across multiple tasks.</p></div></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Timeline Scale</h2><p class='mb-4'>Adjust the timeline scale to view your project at different granularities:</p><ul class='list-disc pl-6 space-y-2'><li><strong>Day:</strong> Detailed view for short-term planning</li><li><strong>Week:</strong> Standard view for most projects</li><li><strong>Month:</strong> Overview for long-term projects</li><li><strong>Quarter:</strong> Strategic planning view</li></ul></section>"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.rollup.name",
+      "en": "Rollup"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.createdTime.type",
+      "en": "Auto"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.createdBy.type",
+      "en": "Auto"
+    },
+    {
+      "path": "featuresPage.webFeatures.viewer.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.sets.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.markup.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.reports.properties.rollup.name",
+      "en": "Rollup"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.elements.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.dateHours.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.assistant.properties.chat.type",
+      "en": "UI"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.budget.label",
+      "en": "Budget Overview"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.budget.desc",
+      "en": "Track spending and remaining"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.teamHours.label",
+      "en": "Team Hours"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.teamHours.desc",
+      "en": "See team time allocation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.milestones.label",
+      "en": "Milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.milestones.desc",
+      "en": "Upcoming deadlines and deliverables"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.name",
+      "en": "Total Budget"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.desc",
+      "en": "Project budget allocation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.name",
+      "en": "Spent Budget"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.desc",
+      "en": "Actual spending"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.teamMembers.type",
+      "en": "Collection"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.teamMembers.desc",
+      "en": "Team member list"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.name",
+      "en": "Milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.type",
+      "en": "Collection"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.desc",
+      "en": "Project milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.dllPlugins.label",
+      "en": "DLL Plugins"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.pythonScripts.label",
+      "en": "Python Scripts"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.pythonScripts.desc",
+      "en": "Execute Python automation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.csharpScripts.label",
+      "en": "C# Scripts"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.csharpScripts.desc",
+      "en": "Run C# code on-the-fly"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.multiPlugin.label",
+      "en": "Multi-Plugin DLLs"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.multiPlugin.desc",
+      "en": "One DLL can host multiple plugins"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.name.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.name.desc",
+      "en": "Tool display name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.description.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.description.desc",
+      "en": "Tool description"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.category.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.category.desc",
+      "en": "Tool category grouping"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.keywords.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.keywords.desc",
+      "en": "Search keywords"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.name",
+      "en": "Author"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.desc",
+      "en": "Tool creator"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.name",
+      "en": "Version"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.desc",
+      "en": "Version number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.projectCards.label",
+      "en": "Project Cards"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.projectCards.desc",
+      "en": "Visual project overview"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.teamManagement.label",
+      "en": "Team Management"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.teamManagement.desc",
+      "en": "Assign roles and track hours"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.budgetTracking.label",
+      "en": "Budget Tracking"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.budgetTracking.desc",
+      "en": "Monitor costs per team member"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.name.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.name.desc",
+      "en": "Project name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.name",
+      "en": "Client"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.desc",
+      "en": "Client name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.name",
+      "en": "Project Number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.desc",
+      "en": "Project identifier"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.accProjectId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.name",
+      "en": "Invoratec Link Path"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.type",
+      "en": "Path"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.desc",
+      "en": "Model publish folder"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.name",
+      "en": "Completion %"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.desc",
+      "en": "Progress percentage"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.hubBrowser.label",
+      "en": "Hub Browser"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.modelLinking.label",
+      "en": "Model Linking"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.auth.label",
+      "en": "3-Legged Auth"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.fileSync.label",
+      "en": "File Sync"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.fileSync.desc",
+      "en": "Sync models to Invoratec folder"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.hubId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.projectId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.accountId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.name",
+      "en": "Is Authenticated"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.type",
+      "en": "Boolean"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.desc",
+      "en": "Auth status"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.subtitle",
+      "en": "Track team performance and costs"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.name",
+      "en": "Discipline"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.type",
+      "en": "Select"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.desc",
+      "en": "MEP, Structural, Architectural, etc."
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.name",
+      "en": "Hourly Rate"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.desc",
+      "en": "Cost per hour"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.name",
+      "en": "Hours Spent"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.desc",
+      "en": "Logged hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.name",
+      "en": "Budgeted Hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.desc",
+      "en": "Allocated hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.name",
+      "en": "Total Cost"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.type",
+      "en": "Calculated"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.desc",
+      "en": "Rate × Hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.name",
+      "en": "Utilization"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.type",
+      "en": "Calculated"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.desc",
+      "en": "Hours/Budget %"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.subtitle",
+      "en": "Track project deliverables and deadlines"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.name",
+      "en": "Description"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.type",
+      "en": "Long Text"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.desc",
+      "en": "Milestone details"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.name",
+      "en": "Allocated Budget"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.desc",
+      "en": "Budget for this milestone"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.name",
+      "en": "Spent Budget"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.desc",
+      "en": "Amount spent"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.name",
+      "en": "Dependencies"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.type",
+      "en": "Relation"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.desc",
+      "en": "Depends on other milestones"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.name",
+      "en": "Deliverables"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.type",
+      "en": "List"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.desc",
+      "en": "Expected deliverables"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.relations",
+      "en": "Relations"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.autoGenerated",
+      "en": "Auto-Generated"
+    },
+    {
+      "path": "featuresPage.comparison.features.taskManagement",
+      "en": "Task Management (45+ property types)"
+    },
+    {
+      "path": "featuresPage.comparison.features.modelViewer",
+      "en": "3D Model Viewer (APS)"
+    },
+    {
+      "path": "featuresPage.comparison.features.gantt",
+      "en": "Gantt Chart/Timeline"
+    },
+    {
+      "path": "featuresPage.comparison.features.kanban",
+      "en": "Kanban Board"
+    },
+    {
+      "path": "featuresPage.comparison.features.aiAssistant",
+      "en": "AI Assistant (Natural Language)"
+    },
+    {
+      "path": "featuresPage.comparison.features.toolLibrary",
+      "en": "Tool Library (Python/C#/DLL)"
+    },
+    {
+      "path": "featuresPage.comparison.features.shopDrawing",
+      "en": "Shop Drawing Markup"
+    },
+    {
+      "path": "featuresPage.comparison.features.teamBudget",
+      "en": "Team & Budget Tracking"
+    },
+    {
+      "path": "featuresPage.comparison.features.languages",
+      "en": "20+ Languages"
+    },
+    {
+      "path": "downloadPage.requirements.ram",
+      "en": "RAM"
+    },
+    {
+      "path": "downloadPage.requirements.internet",
+      "en": "Internet"
+    },
+    {
+      "path": "activityDetail.sections.agenda",
+      "en": "Agenda"
+    },
+    {
+      "path": "mockUI.tasks.done",
+      "en": "Done"
+    },
+    {
+      "path": "mockUI.viewer.zoom",
+      "en": "Zoom"
+    },
+    {
+      "path": "mockUI.viewer.annotations",
+      "en": "Annotations"
+    },
+    {
+      "path": "mockUI.timeline.progress",
+      "en": "Progress"
+    },
+    {
+      "path": "mockUI.coordination.issues",
+      "en": "Issues"
+    },
+    {
+      "path": "mockUI.coordination.severity",
+      "en": "Severity"
+    },
+    {
+      "path": "mockUI.coordination.discipline",
+      "en": "Discipline"
+    },
+    {
+      "path": "mockUI.ai.askAnything",
+      "en": "Ask anything about your project..."
+    },
+    {
+      "path": "mockUI.ai.suggestions",
+      "en": "Suggestions"
+    },
+    {
+      "path": "mockUI.ai.thinking",
+      "en": "Thinking..."
+    },
+    {
+      "path": "mockUI.ai.send",
+      "en": "Send"
+    },
+    {
+      "path": "mockUI.tools.title",
+      "en": "Tools"
+    },
+    {
+      "path": "mockUI.tools.scripts",
+      "en": "Scripts"
+    },
+    {
+      "path": "mockUI.tools.templates",
+      "en": "Templates"
+    },
+    {
+      "path": "mockUI.tools.automation",
+      "en": "Automation"
+    },
+    {
+      "path": "mockUI.tools.run",
+      "en": "Run"
+    },
+    {
+      "path": "mockUI.tools.edit",
+      "en": "Edit"
+    }
+  ],
+  "pt": [
+    {
+      "path": "nav.blog",
+      "en": "Blog"
+    },
+    {
+      "path": "nav.download",
+      "en": "Download"
+    },
+    {
+      "path": "footer.product.download",
+      "en": "Download"
+    },
+    {
+      "path": "footer.legal.cookies",
+      "en": "Cookies"
+    },
+    {
+      "path": "footer.legal.dpa",
+      "en": "DPA"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.0.name",
+      "en": "invoratec_user"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.1.name",
+      "en": "locale"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.2.name",
+      "en": "region"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.3.name",
+      "en": "cookie_consent"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.0.name",
+      "en": "theme"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.1.name",
+      "en": "recent_projects"
+    },
+    {
+      "path": "terms.subprocessors.content.subprocessorData.gmail.name",
+      "en": "Gmail / Google Workspace"
+    },
+    {
+      "path": "pricing.plans.starter.name",
+      "en": "Starter"
+    },
+    {
+      "path": "pricing.plans.enterprise.name",
+      "en": "Enterprise"
+    },
+    {
+      "path": "blog.hero.title",
+      "en": "Blog"
+    },
+    {
+      "path": "blog.categories.tutorial",
+      "en": "Tutorial"
+    },
+    {
+      "path": "blog.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "blog.tags.mep",
+      "en": "MEP"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.timeSaved",
+      "en": "40%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.costReduction",
+      "en": "25%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.errorReduction",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.timeSaved",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.costReduction",
+      "en": "20%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.errorReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.timeSaved",
+      "en": "45%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.costReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.errorReduction",
+      "en": "50%"
+    },
+    {
+      "path": "cases.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "docs.content.api.endpoint",
+      "en": "Endpoint"
+    },
+    {
+      "path": "docs.content.webTimeline.ganttViewDesc",
+      "en": "The Gantt chart displays tasks as horizontal bars on a timeline. The length of each bar represents the task duration. Tasks are color-coded by status."
+    },
+    {
+      "path": "docs.content.webTimeline.schedStep1",
+      "en": "Drag task bars horizontally to change start dates"
+    },
+    {
+      "path": "docs.content.webTimeline.schedStep2",
+      "en": "Drag the edges of task bars to adjust duration"
+    },
+    {
+      "path": "docs.content.webTimeline.schedStep3",
+      "en": "Set dates directly in the task properties panel"
+    },
+    {
+      "path": "docs.content.webTimeline.dependenciesDesc",
+      "en": "Link tasks together to create dependencies. When a predecessor task moves, dependent tasks automatically adjust. Use the Relation property to link tasks together."
+    },
+    {
+      "path": "docs.content.webTimeline.milestonesDesc",
+      "en": "Mark important project dates as milestones. Milestones appear as diamond shapes on the timeline and can be linked to tasks and deliverables."
+    },
+    {
+      "path": "docs.content.webTimeline.progressDesc",
+      "en": "Track completion percentage for each task. The Gantt chart shows progress as a filled portion of the task bar, making it easy to see which tasks are on track."
+    },
+    {
+      "path": "docs.content.revitAssistant.toolMatching",
+      "en": "Smart Tool Matching"
+    },
+    {
+      "path": "docs.content.revitAssistant.toolMatchingDesc",
+      "en": "The AI automatically matches your request to available tools in your library. If a suitable tool exists, it will suggest using it instead of writing new code."
+    },
+    {
+      "path": "docs.docsContent.web-timeline",
+      "en": "<section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Overview</h2><p class='mb-4'>The Timeline & Gantt view provides visual project scheduling with task dependencies, milestones, and progress tracking. Plan your project timeline and monitor progress in real-time.</p></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Gantt Chart View</h2><p class='mb-4'>The Gantt chart displays tasks as horizontal bars on a timeline. The length of each bar represents the task duration. Tasks are color-coded by status.</p><div class='grid md:grid-cols-4 gap-2 mt-4'><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-gray-300'></span><span class='text-sm text-gray-600'>Not Started</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-blue-500'></span><span class='text-sm text-gray-600'>In Progress</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-green-500'></span><span class='text-sm text-gray-600'>Completed</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-red-500'></span><span class='text-sm text-gray-600'>Overdue</span></div></div></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Scheduling Tasks</h2><p class='mb-4'>Schedule tasks using these methods:</p><ol class='list-decimal pl-6 space-y-2'><li><strong>Drag horizontally:</strong> Move task bars to change start dates</li><li><strong>Drag edges:</strong> Extend or shorten the task duration</li><li><strong>Properties panel:</strong> Set exact dates in the task details</li><li><strong>Quick add:</strong> Click on the timeline to add tasks at specific dates</li></ol></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Task Dependencies</h2><p class='mb-4'>Link tasks together to create dependencies. When a predecessor task moves, dependent tasks automatically adjust.</p><div class='bg-gray-50 rounded-lg p-4 mt-4'><h4 class='font-medium text-gray-900 mb-2'>Dependency Types</h4><ul class='list-disc pl-6 space-y-1 text-sm text-gray-600'><li><strong>Finish-to-Start (FS):</strong> Task B starts when Task A finishes</li><li><strong>Start-to-Start (SS):</strong> Task B starts when Task A starts</li><li><strong>Finish-to-Finish (FF):</strong> Task B finishes when Task A finishes</li><li><strong>Start-to-Finish (SF):</strong> Task B finishes when Task A starts</li></ul></div><p class='mt-4'>Use the Relation property to link tasks together, or drag connection handles between task bars.</p></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Milestones</h2><p class='mb-4'>Mark important project dates as milestones. Milestones appear as diamond shapes on the timeline and can be linked to tasks and deliverables.</p><ul class='list-disc pl-6 space-y-2'><li>Create milestones from the toolbar or convert existing tasks</li><li>Set target dates for key deliverables</li><li>Track milestone completion status</li><li>Receive notifications for approaching milestones</li></ul></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Progress Tracking</h2><p class='mb-4'>Track completion percentage for each task. The Gantt chart shows progress as a filled portion of the task bar.</p><div class='bg-blue-50 border border-blue-200 rounded-lg p-4'><p class='text-blue-800'><strong>Pro Tip:</strong> Use the \"% Complete\" column to quickly update progress across multiple tasks.</p></div></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Timeline Scale</h2><p class='mb-4'>Adjust the timeline scale to view your project at different granularities:</p><ul class='list-disc pl-6 space-y-2'><li><strong>Day:</strong> Detailed view for short-term planning</li><li><strong>Week:</strong> Standard view for most projects</li><li><strong>Month:</strong> Overview for long-term projects</li><li><strong>Quarter:</strong> Strategic planning view</li></ul></section>"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.status.name",
+      "en": "Status"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.url.type",
+      "en": "Links"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.rollup.name",
+      "en": "Rollup"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.createdTime.type",
+      "en": "Auto"
+    },
+    {
+      "path": "featuresPage.webFeatures.tasks.properties.createdBy.type",
+      "en": "Auto"
+    },
+    {
+      "path": "featuresPage.webFeatures.viewer.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.sets.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.status.type",
+      "en": "Status"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.markup.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.approval.type",
+      "en": "Status"
+    },
+    {
+      "path": "featuresPage.webFeatures.reports.properties.rollup.name",
+      "en": "Rollup"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.elements.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.dateHours.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.assistant.properties.chat.type",
+      "en": "UI"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.budget.label",
+      "en": "Budget Overview"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.budget.desc",
+      "en": "Track spending and remaining"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.teamHours.label",
+      "en": "Team Hours"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.teamHours.desc",
+      "en": "See team time allocation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.milestones.label",
+      "en": "Milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.milestones.desc",
+      "en": "Upcoming deadlines and deliverables"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.name",
+      "en": "Total Budget"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.desc",
+      "en": "Project budget allocation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.name",
+      "en": "Spent Budget"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.desc",
+      "en": "Actual spending"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.teamMembers.type",
+      "en": "Collection"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.teamMembers.desc",
+      "en": "Team member list"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.name",
+      "en": "Milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.type",
+      "en": "Collection"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.desc",
+      "en": "Project milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.dllPlugins.label",
+      "en": "DLL Plugins"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.pythonScripts.label",
+      "en": "Python Scripts"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.pythonScripts.desc",
+      "en": "Execute Python automation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.csharpScripts.label",
+      "en": "C# Scripts"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.csharpScripts.desc",
+      "en": "Run C# code on-the-fly"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.multiPlugin.label",
+      "en": "Multi-Plugin DLLs"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.multiPlugin.desc",
+      "en": "One DLL can host multiple plugins"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.name.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.name.desc",
+      "en": "Tool display name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.description.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.description.desc",
+      "en": "Tool description"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.category.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.category.desc",
+      "en": "Tool category grouping"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.keywords.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.keywords.desc",
+      "en": "Search keywords"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.name",
+      "en": "Author"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.desc",
+      "en": "Tool creator"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.name",
+      "en": "Version"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.desc",
+      "en": "Version number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.projectCards.label",
+      "en": "Project Cards"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.projectCards.desc",
+      "en": "Visual project overview"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.teamManagement.label",
+      "en": "Team Management"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.teamManagement.desc",
+      "en": "Assign roles and track hours"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.budgetTracking.label",
+      "en": "Budget Tracking"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.budgetTracking.desc",
+      "en": "Monitor costs per team member"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.name.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.name.desc",
+      "en": "Project name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.name",
+      "en": "Client"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.desc",
+      "en": "Client name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.name",
+      "en": "Project Number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.desc",
+      "en": "Project identifier"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.accProjectId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.name",
+      "en": "Invoratec Link Path"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.type",
+      "en": "Path"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.desc",
+      "en": "Model publish folder"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.status.name",
+      "en": "Status"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.name",
+      "en": "Completion %"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.desc",
+      "en": "Progress percentage"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.hubBrowser.label",
+      "en": "Hub Browser"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.modelLinking.label",
+      "en": "Model Linking"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.auth.label",
+      "en": "3-Legged Auth"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.fileSync.label",
+      "en": "File Sync"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.fileSync.desc",
+      "en": "Sync models to Invoratec folder"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.hubId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.projectId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.accountId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.name",
+      "en": "Is Authenticated"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.type",
+      "en": "Boolean"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.desc",
+      "en": "Auth status"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.subtitle",
+      "en": "Track team performance and costs"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.name",
+      "en": "Discipline"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.type",
+      "en": "Select"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.desc",
+      "en": "MEP, Structural, Architectural, etc."
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.name",
+      "en": "Hourly Rate"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.desc",
+      "en": "Cost per hour"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.name",
+      "en": "Hours Spent"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.desc",
+      "en": "Logged hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.name",
+      "en": "Budgeted Hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.desc",
+      "en": "Allocated hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.name",
+      "en": "Total Cost"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.type",
+      "en": "Calculated"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.desc",
+      "en": "Rate × Hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.name",
+      "en": "Utilization"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.type",
+      "en": "Calculated"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.desc",
+      "en": "Hours/Budget %"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.subtitle",
+      "en": "Track project deliverables and deadlines"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.name",
+      "en": "Description"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.type",
+      "en": "Long Text"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.desc",
+      "en": "Milestone details"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.name",
+      "en": "Allocated Budget"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.desc",
+      "en": "Budget for this milestone"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.name",
+      "en": "Spent Budget"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.desc",
+      "en": "Amount spent"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.name",
+      "en": "Dependencies"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.type",
+      "en": "Relation"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.desc",
+      "en": "Depends on other milestones"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.name",
+      "en": "Deliverables"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.type",
+      "en": "List"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.desc",
+      "en": "Expected deliverables"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.links",
+      "en": "Links"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.relations",
+      "en": "Relations"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.autoGenerated",
+      "en": "Auto-Generated"
+    },
+    {
+      "path": "featuresPage.comparison.features.taskManagement",
+      "en": "Task Management (45+ property types)"
+    },
+    {
+      "path": "featuresPage.comparison.features.modelViewer",
+      "en": "3D Model Viewer (APS)"
+    },
+    {
+      "path": "featuresPage.comparison.features.gantt",
+      "en": "Gantt Chart/Timeline"
+    },
+    {
+      "path": "featuresPage.comparison.features.kanban",
+      "en": "Kanban Board"
+    },
+    {
+      "path": "featuresPage.comparison.features.aiAssistant",
+      "en": "AI Assistant (Natural Language)"
+    },
+    {
+      "path": "featuresPage.comparison.features.toolLibrary",
+      "en": "Tool Library (Python/C#/DLL)"
+    },
+    {
+      "path": "featuresPage.comparison.features.shopDrawing",
+      "en": "Shop Drawing Markup"
+    },
+    {
+      "path": "featuresPage.comparison.features.teamBudget",
+      "en": "Team & Budget Tracking"
+    },
+    {
+      "path": "featuresPage.comparison.features.languages",
+      "en": "20+ Languages"
+    },
+    {
+      "path": "featuresPage.cta.downloadAddin",
+      "en": "Download Add-in"
+    },
+    {
+      "path": "featuresPage.availableProperties",
+      "en": "Available Properties"
+    },
+    {
+      "path": "downloadPage.requirements.ram",
+      "en": "RAM"
+    },
+    {
+      "path": "downloadPage.requirements.internet",
+      "en": "Internet"
+    },
+    {
+      "path": "activityDetail.sections.agenda",
+      "en": "Agenda"
+    },
+    {
+      "path": "activityDetail.sections.formatOnline",
+      "en": "Online"
+    },
+    {
+      "path": "mockUI.tasks.status",
+      "en": "Status"
+    },
+    {
+      "path": "mockUI.tasks.done",
+      "en": "Done"
+    },
+    {
+      "path": "mockUI.viewer.zoom",
+      "en": "Zoom"
+    },
+    {
+      "path": "mockUI.viewer.annotations",
+      "en": "Annotations"
+    },
+    {
+      "path": "mockUI.timeline.progress",
+      "en": "Progress"
+    },
+    {
+      "path": "mockUI.coordination.issues",
+      "en": "Issues"
+    },
+    {
+      "path": "mockUI.coordination.severity",
+      "en": "Severity"
+    },
+    {
+      "path": "mockUI.coordination.discipline",
+      "en": "Discipline"
+    },
+    {
+      "path": "mockUI.ai.askAnything",
+      "en": "Ask anything about your project..."
+    },
+    {
+      "path": "mockUI.ai.suggestions",
+      "en": "Suggestions"
+    },
+    {
+      "path": "mockUI.ai.thinking",
+      "en": "Thinking..."
+    },
+    {
+      "path": "mockUI.ai.send",
+      "en": "Send"
+    },
+    {
+      "path": "mockUI.tools.title",
+      "en": "Tools"
+    },
+    {
+      "path": "mockUI.tools.scripts",
+      "en": "Scripts"
+    },
+    {
+      "path": "mockUI.tools.templates",
+      "en": "Templates"
+    },
+    {
+      "path": "mockUI.tools.automation",
+      "en": "Automation"
+    },
+    {
+      "path": "mockUI.tools.run",
+      "en": "Run"
+    },
+    {
+      "path": "mockUI.tools.edit",
+      "en": "Edit"
+    },
+    {
+      "path": "mockUI.reports.schedule",
+      "en": "Schedule"
+    },
+    {
+      "path": "mockUI.projects.recent",
+      "en": "Recent"
+    },
+    {
+      "path": "mockUI.projects.all",
+      "en": "All Projects"
+    },
+    {
+      "path": "mockUI.projects.create",
+      "en": "Create Project"
+    },
+    {
+      "path": "mockUI.projects.open",
+      "en": "Open"
+    },
+    {
+      "path": "mockUI.acc.sync",
+      "en": "Sync"
+    },
+    {
+      "path": "mockUI.acc.lastSync",
+      "en": "Last Sync"
+    },
+    {
+      "path": "mockUI.acc.connected",
+      "en": "Connected"
+    },
+    {
+      "path": "mockUI.acc.documents",
+      "en": "Documents"
+    },
+    {
+      "path": "mockUI.acc.models",
+      "en": "Models"
+    },
+    {
+      "path": "mockUI.sheets.allSheets",
+      "en": "All Sheets"
+    },
+    {
+      "path": "mockUI.sheets.search",
+      "en": "Search sheets..."
+    }
+  ],
+  "ru": [
+    {
+      "path": "footer.legal.cookies",
+      "en": "Cookies"
+    },
+    {
+      "path": "footer.legal.dpa",
+      "en": "DPA"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.0.name",
+      "en": "invoratec_user"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.1.name",
+      "en": "locale"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.2.name",
+      "en": "region"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.3.name",
+      "en": "cookie_consent"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.0.name",
+      "en": "theme"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.1.name",
+      "en": "recent_projects"
+    },
+    {
+      "path": "terms.subprocessors.content.subprocessorData.gmail.name",
+      "en": "Gmail / Google Workspace"
+    },
+    {
+      "path": "pricing.plans.starter.name",
+      "en": "Starter"
+    },
+    {
+      "path": "pricing.plans.starter.price",
+      "en": "$99"
+    },
+    {
+      "path": "pricing.plans.professional.name",
+      "en": "Professional"
+    },
+    {
+      "path": "pricing.plans.professional.price",
+      "en": "$449"
+    },
+    {
+      "path": "pricing.plans.enterprise.name",
+      "en": "Enterprise"
+    },
+    {
+      "path": "blog.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "blog.tags.mep",
+      "en": "MEP"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.timeSaved",
+      "en": "40%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.costReduction",
+      "en": "25%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.errorReduction",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.timeSaved",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.costReduction",
+      "en": "20%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.errorReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.timeSaved",
+      "en": "45%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.costReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.errorReduction",
+      "en": "50%"
+    },
+    {
+      "path": "cases.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "docs.content.webTimeline.ganttViewDesc",
+      "en": "The Gantt chart displays tasks as horizontal bars on a timeline. The length of each bar represents the task duration. Tasks are color-coded by status."
+    },
+    {
+      "path": "docs.content.webTimeline.schedStep1",
+      "en": "Drag task bars horizontally to change start dates"
+    },
+    {
+      "path": "docs.content.webTimeline.schedStep2",
+      "en": "Drag the edges of task bars to adjust duration"
+    },
+    {
+      "path": "docs.content.webTimeline.schedStep3",
+      "en": "Set dates directly in the task properties panel"
+    },
+    {
+      "path": "docs.content.webTimeline.dependenciesDesc",
+      "en": "Link tasks together to create dependencies. When a predecessor task moves, dependent tasks automatically adjust. Use the Relation property to link tasks together."
+    },
+    {
+      "path": "docs.content.webTimeline.milestonesDesc",
+      "en": "Mark important project dates as milestones. Milestones appear as diamond shapes on the timeline and can be linked to tasks and deliverables."
+    },
+    {
+      "path": "docs.content.webTimeline.progressDesc",
+      "en": "Track completion percentage for each task. The Gantt chart shows progress as a filled portion of the task bar, making it easy to see which tasks are on track."
+    },
+    {
+      "path": "docs.content.revitAssistant.toolMatching",
+      "en": "Smart Tool Matching"
+    },
+    {
+      "path": "docs.content.revitAssistant.toolMatchingDesc",
+      "en": "The AI automatically matches your request to available tools in your library. If a suitable tool exists, it will suggest using it instead of writing new code."
+    },
+    {
+      "path": "docs.docsContent.web-timeline",
+      "en": "<section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Overview</h2><p class='mb-4'>The Timeline & Gantt view provides visual project scheduling with task dependencies, milestones, and progress tracking. Plan your project timeline and monitor progress in real-time.</p></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Gantt Chart View</h2><p class='mb-4'>The Gantt chart displays tasks as horizontal bars on a timeline. The length of each bar represents the task duration. Tasks are color-coded by status.</p><div class='grid md:grid-cols-4 gap-2 mt-4'><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-gray-300'></span><span class='text-sm text-gray-600'>Not Started</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-blue-500'></span><span class='text-sm text-gray-600'>In Progress</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-green-500'></span><span class='text-sm text-gray-600'>Completed</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-red-500'></span><span class='text-sm text-gray-600'>Overdue</span></div></div></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Scheduling Tasks</h2><p class='mb-4'>Schedule tasks using these methods:</p><ol class='list-decimal pl-6 space-y-2'><li><strong>Drag horizontally:</strong> Move task bars to change start dates</li><li><strong>Drag edges:</strong> Extend or shorten the task duration</li><li><strong>Properties panel:</strong> Set exact dates in the task details</li><li><strong>Quick add:</strong> Click on the timeline to add tasks at specific dates</li></ol></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Task Dependencies</h2><p class='mb-4'>Link tasks together to create dependencies. When a predecessor task moves, dependent tasks automatically adjust.</p><div class='bg-gray-50 rounded-lg p-4 mt-4'><h4 class='font-medium text-gray-900 mb-2'>Dependency Types</h4><ul class='list-disc pl-6 space-y-1 text-sm text-gray-600'><li><strong>Finish-to-Start (FS):</strong> Task B starts when Task A finishes</li><li><strong>Start-to-Start (SS):</strong> Task B starts when Task A starts</li><li><strong>Finish-to-Finish (FF):</strong> Task B finishes when Task A finishes</li><li><strong>Start-to-Finish (SF):</strong> Task B finishes when Task A starts</li></ul></div><p class='mt-4'>Use the Relation property to link tasks together, or drag connection handles between task bars.</p></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Milestones</h2><p class='mb-4'>Mark important project dates as milestones. Milestones appear as diamond shapes on the timeline and can be linked to tasks and deliverables.</p><ul class='list-disc pl-6 space-y-2'><li>Create milestones from the toolbar or convert existing tasks</li><li>Set target dates for key deliverables</li><li>Track milestone completion status</li><li>Receive notifications for approaching milestones</li></ul></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Progress Tracking</h2><p class='mb-4'>Track completion percentage for each task. The Gantt chart shows progress as a filled portion of the task bar.</p><div class='bg-blue-50 border border-blue-200 rounded-lg p-4'><p class='text-blue-800'><strong>Pro Tip:</strong> Use the \"% Complete\" column to quickly update progress across multiple tasks.</p></div></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Timeline Scale</h2><p class='mb-4'>Adjust the timeline scale to view your project at different granularities:</p><ul class='list-disc pl-6 space-y-2'><li><strong>Day:</strong> Detailed view for short-term planning</li><li><strong>Week:</strong> Standard view for most projects</li><li><strong>Month:</strong> Overview for long-term projects</li><li><strong>Quarter:</strong> Strategic planning view</li></ul></section>"
+    },
+    {
+      "path": "featuresPage.webFeatures.viewer.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.sets.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.markup.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.elements.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.dateHours.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.assistant.properties.chat.type",
+      "en": "UI"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.budget.label",
+      "en": "Budget Overview"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.budget.desc",
+      "en": "Track spending and remaining"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.teamHours.label",
+      "en": "Team Hours"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.teamHours.desc",
+      "en": "See team time allocation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.milestones.label",
+      "en": "Milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.milestones.desc",
+      "en": "Upcoming deadlines and deliverables"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.name",
+      "en": "Total Budget"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.desc",
+      "en": "Project budget allocation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.name",
+      "en": "Spent Budget"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.desc",
+      "en": "Actual spending"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.teamMembers.type",
+      "en": "Collection"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.teamMembers.desc",
+      "en": "Team member list"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.name",
+      "en": "Milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.type",
+      "en": "Collection"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.desc",
+      "en": "Project milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.dllPlugins.label",
+      "en": "DLL Plugins"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.pythonScripts.label",
+      "en": "Python Scripts"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.pythonScripts.desc",
+      "en": "Execute Python automation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.csharpScripts.label",
+      "en": "C# Scripts"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.csharpScripts.desc",
+      "en": "Run C# code on-the-fly"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.multiPlugin.label",
+      "en": "Multi-Plugin DLLs"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.multiPlugin.desc",
+      "en": "One DLL can host multiple plugins"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.name.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.name.desc",
+      "en": "Tool display name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.description.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.description.desc",
+      "en": "Tool description"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.category.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.category.desc",
+      "en": "Tool category grouping"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.keywords.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.keywords.desc",
+      "en": "Search keywords"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.name",
+      "en": "Author"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.desc",
+      "en": "Tool creator"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.name",
+      "en": "Version"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.desc",
+      "en": "Version number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.projectCards.label",
+      "en": "Project Cards"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.projectCards.desc",
+      "en": "Visual project overview"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.teamManagement.label",
+      "en": "Team Management"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.teamManagement.desc",
+      "en": "Assign roles and track hours"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.budgetTracking.label",
+      "en": "Budget Tracking"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.budgetTracking.desc",
+      "en": "Monitor costs per team member"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.name.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.name.desc",
+      "en": "Project name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.name",
+      "en": "Client"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.desc",
+      "en": "Client name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.name",
+      "en": "Project Number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.desc",
+      "en": "Project identifier"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.accProjectId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.name",
+      "en": "Invoratec Link Path"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.type",
+      "en": "Path"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.desc",
+      "en": "Model publish folder"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.name",
+      "en": "Completion %"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.desc",
+      "en": "Progress percentage"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.hubBrowser.label",
+      "en": "Hub Browser"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.modelLinking.label",
+      "en": "Model Linking"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.auth.label",
+      "en": "3-Legged Auth"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.fileSync.label",
+      "en": "File Sync"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.fileSync.desc",
+      "en": "Sync models to Invoratec folder"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.hubId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.projectId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.accountId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.name",
+      "en": "Is Authenticated"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.type",
+      "en": "Boolean"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.desc",
+      "en": "Auth status"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.subtitle",
+      "en": "Track team performance and costs"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.name",
+      "en": "Discipline"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.type",
+      "en": "Select"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.desc",
+      "en": "MEP, Structural, Architectural, etc."
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.name",
+      "en": "Hourly Rate"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.desc",
+      "en": "Cost per hour"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.name",
+      "en": "Hours Spent"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.desc",
+      "en": "Logged hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.name",
+      "en": "Budgeted Hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.desc",
+      "en": "Allocated hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.name",
+      "en": "Total Cost"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.type",
+      "en": "Calculated"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.desc",
+      "en": "Rate × Hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.name",
+      "en": "Utilization"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.type",
+      "en": "Calculated"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.desc",
+      "en": "Hours/Budget %"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.subtitle",
+      "en": "Track project deliverables and deadlines"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.name",
+      "en": "Description"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.type",
+      "en": "Long Text"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.desc",
+      "en": "Milestone details"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.name",
+      "en": "Allocated Budget"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.desc",
+      "en": "Budget for this milestone"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.name",
+      "en": "Spent Budget"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.desc",
+      "en": "Amount spent"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.name",
+      "en": "Dependencies"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.type",
+      "en": "Relation"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.desc",
+      "en": "Depends on other milestones"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.name",
+      "en": "Deliverables"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.type",
+      "en": "List"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.desc",
+      "en": "Expected deliverables"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.relations",
+      "en": "Relations"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.autoGenerated",
+      "en": "Auto-Generated"
+    },
+    {
+      "path": "featuresPage.comparison.features.taskManagement",
+      "en": "Task Management (45+ property types)"
+    },
+    {
+      "path": "featuresPage.comparison.features.modelViewer",
+      "en": "3D Model Viewer (APS)"
+    },
+    {
+      "path": "featuresPage.comparison.features.gantt",
+      "en": "Gantt Chart/Timeline"
+    },
+    {
+      "path": "featuresPage.comparison.features.kanban",
+      "en": "Kanban Board"
+    },
+    {
+      "path": "featuresPage.comparison.features.aiAssistant",
+      "en": "AI Assistant (Natural Language)"
+    },
+    {
+      "path": "featuresPage.comparison.features.toolLibrary",
+      "en": "Tool Library (Python/C#/DLL)"
+    },
+    {
+      "path": "featuresPage.comparison.features.shopDrawing",
+      "en": "Shop Drawing Markup"
+    },
+    {
+      "path": "featuresPage.comparison.features.teamBudget",
+      "en": "Team & Budget Tracking"
+    },
+    {
+      "path": "featuresPage.comparison.features.languages",
+      "en": "20+ Languages"
+    },
+    {
+      "path": "featuresPage.cta.downloadAddin",
+      "en": "Download Add-in"
+    },
+    {
+      "path": "featuresPage.availableProperties",
+      "en": "Available Properties"
+    },
+    {
+      "path": "mockUI.tasks.done",
+      "en": "Done"
+    },
+    {
+      "path": "mockUI.viewer.zoom",
+      "en": "Zoom"
+    },
+    {
+      "path": "mockUI.viewer.annotations",
+      "en": "Annotations"
+    },
+    {
+      "path": "mockUI.timeline.progress",
+      "en": "Progress"
+    },
+    {
+      "path": "mockUI.coordination.issues",
+      "en": "Issues"
+    },
+    {
+      "path": "mockUI.coordination.severity",
+      "en": "Severity"
+    },
+    {
+      "path": "mockUI.coordination.discipline",
+      "en": "Discipline"
+    },
+    {
+      "path": "mockUI.ai.askAnything",
+      "en": "Ask anything about your project..."
+    },
+    {
+      "path": "mockUI.ai.suggestions",
+      "en": "Suggestions"
+    },
+    {
+      "path": "mockUI.ai.thinking",
+      "en": "Thinking..."
+    },
+    {
+      "path": "mockUI.ai.send",
+      "en": "Send"
+    },
+    {
+      "path": "mockUI.tools.title",
+      "en": "Tools"
+    },
+    {
+      "path": "mockUI.tools.scripts",
+      "en": "Scripts"
+    },
+    {
+      "path": "mockUI.tools.templates",
+      "en": "Templates"
+    },
+    {
+      "path": "mockUI.tools.automation",
+      "en": "Automation"
+    },
+    {
+      "path": "mockUI.tools.run",
+      "en": "Run"
+    },
+    {
+      "path": "mockUI.tools.edit",
+      "en": "Edit"
+    },
+    {
+      "path": "mockUI.reports.schedule",
+      "en": "Schedule"
+    },
+    {
+      "path": "mockUI.projects.recent",
+      "en": "Recent"
+    },
+    {
+      "path": "mockUI.projects.all",
+      "en": "All Projects"
+    },
+    {
+      "path": "mockUI.projects.create",
+      "en": "Create Project"
+    },
+    {
+      "path": "mockUI.projects.open",
+      "en": "Open"
+    },
+    {
+      "path": "mockUI.acc.sync",
+      "en": "Sync"
+    },
+    {
+      "path": "mockUI.acc.lastSync",
+      "en": "Last Sync"
+    },
+    {
+      "path": "mockUI.acc.connected",
+      "en": "Connected"
+    },
+    {
+      "path": "mockUI.acc.documents",
+      "en": "Documents"
+    },
+    {
+      "path": "mockUI.acc.models",
+      "en": "Models"
+    },
+    {
+      "path": "mockUI.sheets.allSheets",
+      "en": "All Sheets"
+    },
+    {
+      "path": "mockUI.sheets.search",
+      "en": "Search sheets..."
+    }
+  ],
+  "ar": [
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.0.name",
+      "en": "invoratec_user"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.1.name",
+      "en": "locale"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.2.name",
+      "en": "region"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection1.cookies.3.name",
+      "en": "cookie_consent"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.0.name",
+      "en": "theme"
+    },
+    {
+      "path": "terms.cookies.content.section2.subsection2.cookies.1.name",
+      "en": "recent_projects"
+    },
+    {
+      "path": "terms.subprocessors.content.subprocessorData.gmail.name",
+      "en": "Gmail / Google Workspace"
+    },
+    {
+      "path": "pricing.plans.starter.price",
+      "en": "$99"
+    },
+    {
+      "path": "pricing.plans.professional.price",
+      "en": "$449"
+    },
+    {
+      "path": "blog.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "blog.tags.mep",
+      "en": "MEP"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.timeSaved",
+      "en": "40%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.costReduction",
+      "en": "25%"
+    },
+    {
+      "path": "cases.items.shanghai-xintiandi.stats.errorReduction",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.timeSaved",
+      "en": "35%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.costReduction",
+      "en": "20%"
+    },
+    {
+      "path": "cases.items.ordos-smart-scenic.stats.errorReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.timeSaved",
+      "en": "45%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.costReduction",
+      "en": "30%"
+    },
+    {
+      "path": "cases.items.daxing-airport.stats.errorReduction",
+      "en": "50%"
+    },
+    {
+      "path": "cases.tags.bim",
+      "en": "BIM"
+    },
+    {
+      "path": "docs.content.webTimeline.ganttViewDesc",
+      "en": "The Gantt chart displays tasks as horizontal bars on a timeline. The length of each bar represents the task duration. Tasks are color-coded by status."
+    },
+    {
+      "path": "docs.content.webTimeline.schedStep1",
+      "en": "Drag task bars horizontally to change start dates"
+    },
+    {
+      "path": "docs.content.webTimeline.schedStep2",
+      "en": "Drag the edges of task bars to adjust duration"
+    },
+    {
+      "path": "docs.content.webTimeline.schedStep3",
+      "en": "Set dates directly in the task properties panel"
+    },
+    {
+      "path": "docs.content.webTimeline.dependenciesDesc",
+      "en": "Link tasks together to create dependencies. When a predecessor task moves, dependent tasks automatically adjust. Use the Relation property to link tasks together."
+    },
+    {
+      "path": "docs.content.webTimeline.milestonesDesc",
+      "en": "Mark important project dates as milestones. Milestones appear as diamond shapes on the timeline and can be linked to tasks and deliverables."
+    },
+    {
+      "path": "docs.content.webTimeline.progressDesc",
+      "en": "Track completion percentage for each task. The Gantt chart shows progress as a filled portion of the task bar, making it easy to see which tasks are on track."
+    },
+    {
+      "path": "docs.content.revitAssistant.toolMatching",
+      "en": "Smart Tool Matching"
+    },
+    {
+      "path": "docs.content.revitAssistant.toolMatchingDesc",
+      "en": "The AI automatically matches your request to available tools in your library. If a suitable tool exists, it will suggest using it instead of writing new code."
+    },
+    {
+      "path": "docs.docsContent.web-timeline",
+      "en": "<section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Overview</h2><p class='mb-4'>The Timeline & Gantt view provides visual project scheduling with task dependencies, milestones, and progress tracking. Plan your project timeline and monitor progress in real-time.</p></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Gantt Chart View</h2><p class='mb-4'>The Gantt chart displays tasks as horizontal bars on a timeline. The length of each bar represents the task duration. Tasks are color-coded by status.</p><div class='grid md:grid-cols-4 gap-2 mt-4'><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-gray-300'></span><span class='text-sm text-gray-600'>Not Started</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-blue-500'></span><span class='text-sm text-gray-600'>In Progress</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-green-500'></span><span class='text-sm text-gray-600'>Completed</span></div><div class='flex items-center gap-2'><span class='w-4 h-4 rounded bg-red-500'></span><span class='text-sm text-gray-600'>Overdue</span></div></div></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Scheduling Tasks</h2><p class='mb-4'>Schedule tasks using these methods:</p><ol class='list-decimal pl-6 space-y-2'><li><strong>Drag horizontally:</strong> Move task bars to change start dates</li><li><strong>Drag edges:</strong> Extend or shorten the task duration</li><li><strong>Properties panel:</strong> Set exact dates in the task details</li><li><strong>Quick add:</strong> Click on the timeline to add tasks at specific dates</li></ol></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Task Dependencies</h2><p class='mb-4'>Link tasks together to create dependencies. When a predecessor task moves, dependent tasks automatically adjust.</p><div class='bg-gray-50 rounded-lg p-4 mt-4'><h4 class='font-medium text-gray-900 mb-2'>Dependency Types</h4><ul class='list-disc pl-6 space-y-1 text-sm text-gray-600'><li><strong>Finish-to-Start (FS):</strong> Task B starts when Task A finishes</li><li><strong>Start-to-Start (SS):</strong> Task B starts when Task A starts</li><li><strong>Finish-to-Finish (FF):</strong> Task B finishes when Task A finishes</li><li><strong>Start-to-Finish (SF):</strong> Task B finishes when Task A starts</li></ul></div><p class='mt-4'>Use the Relation property to link tasks together, or drag connection handles between task bars.</p></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Milestones</h2><p class='mb-4'>Mark important project dates as milestones. Milestones appear as diamond shapes on the timeline and can be linked to tasks and deliverables.</p><ul class='list-disc pl-6 space-y-2'><li>Create milestones from the toolbar or convert existing tasks</li><li>Set target dates for key deliverables</li><li>Track milestone completion status</li><li>Receive notifications for approaching milestones</li></ul></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Progress Tracking</h2><p class='mb-4'>Track completion percentage for each task. The Gantt chart shows progress as a filled portion of the task bar.</p><div class='bg-blue-50 border border-blue-200 rounded-lg p-4'><p class='text-blue-800'><strong>Pro Tip:</strong> Use the \"% Complete\" column to quickly update progress across multiple tasks.</p></div></section><section class='mb-8'><h2 class='text-2xl font-semibold text-gray-900 mb-4'>Timeline Scale</h2><p class='mb-4'>Adjust the timeline scale to view your project at different granularities:</p><ul class='list-disc pl-6 space-y-2'><li><strong>Day:</strong> Detailed view for short-term planning</li><li><strong>Week:</strong> Standard view for most projects</li><li><strong>Month:</strong> Overview for long-term projects</li><li><strong>Quarter:</strong> Strategic planning view</li></ul></section>"
+    },
+    {
+      "path": "featuresPage.webFeatures.viewer.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.coordination.properties.sets.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.viewer.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.webFeatures.sheets.properties.markup.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.elements.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tasks.properties.dateHours.type",
+      "en": "BIM"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.budget.label",
+      "en": "Budget Overview"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.budget.desc",
+      "en": "Track spending and remaining"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.teamHours.label",
+      "en": "Team Hours"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.teamHours.desc",
+      "en": "See team time allocation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.milestones.label",
+      "en": "Milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.highlights.milestones.desc",
+      "en": "Upcoming deadlines and deliverables"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.name",
+      "en": "Total Budget"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.totalBudget.desc",
+      "en": "Project budget allocation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.name",
+      "en": "Spent Budget"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.spentBudget.desc",
+      "en": "Actual spending"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.teamMembers.type",
+      "en": "Collection"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.teamMembers.desc",
+      "en": "Team member list"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.name",
+      "en": "Milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.type",
+      "en": "Collection"
+    },
+    {
+      "path": "featuresPage.bimFeatures.dashboard.properties.milestones.desc",
+      "en": "Project milestones"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.dllPlugins.label",
+      "en": "DLL Plugins"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.pythonScripts.label",
+      "en": "Python Scripts"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.pythonScripts.desc",
+      "en": "Execute Python automation"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.csharpScripts.label",
+      "en": "C# Scripts"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.csharpScripts.desc",
+      "en": "Run C# code on-the-fly"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.multiPlugin.label",
+      "en": "Multi-Plugin DLLs"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.highlights.multiPlugin.desc",
+      "en": "One DLL can host multiple plugins"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.name.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.name.desc",
+      "en": "Tool display name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.description.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.description.desc",
+      "en": "Tool description"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.category.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.category.desc",
+      "en": "Tool category grouping"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.keywords.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.keywords.desc",
+      "en": "Search keywords"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.name",
+      "en": "Author"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.author.desc",
+      "en": "Tool creator"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.name",
+      "en": "Version"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.type",
+      "en": "Metadata"
+    },
+    {
+      "path": "featuresPage.bimFeatures.tools.properties.version.desc",
+      "en": "Version number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.projectCards.label",
+      "en": "Project Cards"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.projectCards.desc",
+      "en": "Visual project overview"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.teamManagement.label",
+      "en": "Team Management"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.teamManagement.desc",
+      "en": "Assign roles and track hours"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.budgetTracking.label",
+      "en": "Budget Tracking"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.highlights.budgetTracking.desc",
+      "en": "Monitor costs per team member"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.name.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.name.desc",
+      "en": "Project name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.name",
+      "en": "Client"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.client.desc",
+      "en": "Client name"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.name",
+      "en": "Project Number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.type",
+      "en": "Text"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.projectNumber.desc",
+      "en": "Project identifier"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.accProjectId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.name",
+      "en": "Invoratec Link Path"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.type",
+      "en": "Path"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.linkPath.desc",
+      "en": "Model publish folder"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.name",
+      "en": "Completion %"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.bimFeatures.projects.properties.completion.desc",
+      "en": "Progress percentage"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.hubBrowser.label",
+      "en": "Hub Browser"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.modelLinking.label",
+      "en": "Model Linking"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.auth.label",
+      "en": "3-Legged Auth"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.fileSync.label",
+      "en": "File Sync"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.highlights.fileSync.desc",
+      "en": "Sync models to Invoratec folder"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.hubId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.projectId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.accountId.type",
+      "en": "Link"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.name",
+      "en": "Is Authenticated"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.type",
+      "en": "Boolean"
+    },
+    {
+      "path": "featuresPage.bimFeatures.acc.properties.isAuth.desc",
+      "en": "Auth status"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.subtitle",
+      "en": "Track team performance and costs"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.name",
+      "en": "Discipline"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.type",
+      "en": "Select"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.discipline.desc",
+      "en": "MEP, Structural, Architectural, etc."
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.name",
+      "en": "Hourly Rate"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hourlyRate.desc",
+      "en": "Cost per hour"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.name",
+      "en": "Hours Spent"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.hoursSpent.desc",
+      "en": "Logged hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.name",
+      "en": "Budgeted Hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.type",
+      "en": "Number"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.budgetedHours.desc",
+      "en": "Allocated hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.name",
+      "en": "Total Cost"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.type",
+      "en": "Calculated"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.totalCost.desc",
+      "en": "Rate × Hours"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.name",
+      "en": "Utilization"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.type",
+      "en": "Calculated"
+    },
+    {
+      "path": "featuresPage.dataModels.teamMember.properties.utilization.desc",
+      "en": "Hours/Budget %"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.subtitle",
+      "en": "Track project deliverables and deadlines"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.name",
+      "en": "Description"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.type",
+      "en": "Long Text"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.description.desc",
+      "en": "Milestone details"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.name",
+      "en": "Allocated Budget"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.allocatedBudget.desc",
+      "en": "Budget for this milestone"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.name",
+      "en": "Spent Budget"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.type",
+      "en": "Currency"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.spentBudget.desc",
+      "en": "Amount spent"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.name",
+      "en": "Dependencies"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.type",
+      "en": "Relation"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.dependencies.desc",
+      "en": "Depends on other milestones"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.name",
+      "en": "Deliverables"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.type",
+      "en": "List"
+    },
+    {
+      "path": "featuresPage.dataModels.milestone.properties.deliverables.desc",
+      "en": "Expected deliverables"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.relations",
+      "en": "Relations"
+    },
+    {
+      "path": "featuresPage.propertySystem.categories.autoGenerated",
+      "en": "Auto-Generated"
+    },
+    {
+      "path": "featuresPage.comparison.features.taskManagement",
+      "en": "Task Management (45+ property types)"
+    },
+    {
+      "path": "featuresPage.comparison.features.modelViewer",
+      "en": "3D Model Viewer (APS)"
+    },
+    {
+      "path": "featuresPage.comparison.features.gantt",
+      "en": "Gantt Chart/Timeline"
+    },
+    {
+      "path": "featuresPage.comparison.features.kanban",
+      "en": "Kanban Board"
+    },
+    {
+      "path": "featuresPage.comparison.features.aiAssistant",
+      "en": "AI Assistant (Natural Language)"
+    },
+    {
+      "path": "featuresPage.comparison.features.toolLibrary",
+      "en": "Tool Library (Python/C#/DLL)"
+    },
+    {
+      "path": "featuresPage.comparison.features.shopDrawing",
+      "en": "Shop Drawing Markup"
+    },
+    {
+      "path": "featuresPage.comparison.features.teamBudget",
+      "en": "Team & Budget Tracking"
+    },
+    {
+      "path": "featuresPage.comparison.features.languages",
+      "en": "20+ Languages"
+    },
+    {
+      "path": "featuresPage.cta.downloadAddin",
+      "en": "Download Add-in"
+    },
+    {
+      "path": "featuresPage.availableProperties",
+      "en": "Available Properties"
+    },
+    {
+      "path": "mockUI.tasks.done",
+      "en": "Done"
+    },
+    {
+      "path": "mockUI.viewer.zoom",
+      "en": "Zoom"
+    },
+    {
+      "path": "mockUI.viewer.annotations",
+      "en": "Annotations"
+    },
+    {
+      "path": "mockUI.timeline.progress",
+      "en": "Progress"
+    },
+    {
+      "path": "mockUI.coordination.issues",
+      "en": "Issues"
+    },
+    {
+      "path": "mockUI.coordination.severity",
+      "en": "Severity"
+    },
+    {
+      "path": "mockUI.coordination.discipline",
+      "en": "Discipline"
+    },
+    {
+      "path": "mockUI.ai.askAnything",
+      "en": "Ask anything about your project..."
+    },
+    {
+      "path": "mockUI.ai.suggestions",
+      "en": "Suggestions"
+    },
+    {
+      "path": "mockUI.ai.thinking",
+      "en": "Thinking..."
+    },
+    {
+      "path": "mockUI.ai.send",
+      "en": "Send"
+    },
+    {
+      "path": "mockUI.tools.title",
+      "en": "Tools"
+    },
+    {
+      "path": "mockUI.tools.scripts",
+      "en": "Scripts"
+    },
+    {
+      "path": "mockUI.tools.templates",
+      "en": "Templates"
+    },
+    {
+      "path": "mockUI.tools.automation",
+      "en": "Automation"
+    },
+    {
+      "path": "mockUI.tools.run",
+      "en": "Run"
+    },
+    {
+      "path": "mockUI.tools.edit",
+      "en": "Edit"
+    },
+    {
+      "path": "mockUI.reports.schedule",
+      "en": "Schedule"
+    },
+    {
+      "path": "mockUI.projects.recent",
+      "en": "Recent"
+    },
+    {
+      "path": "mockUI.projects.all",
+      "en": "All Projects"
+    },
+    {
+      "path": "mockUI.projects.create",
+      "en": "Create Project"
+    },
+    {
+      "path": "mockUI.projects.open",
+      "en": "Open"
+    },
+    {
+      "path": "mockUI.acc.sync",
+      "en": "Sync"
+    },
+    {
+      "path": "mockUI.acc.lastSync",
+      "en": "Last Sync"
+    },
+    {
+      "path": "mockUI.acc.connected",
+      "en": "Connected"
+    },
+    {
+      "path": "mockUI.acc.documents",
+      "en": "Documents"
+    },
+    {
+      "path": "mockUI.acc.models",
+      "en": "Models"
+    },
+    {
+      "path": "mockUI.sheets.allSheets",
+      "en": "All Sheets"
+    },
+    {
+      "path": "mockUI.sheets.search",
+      "en": "Search sheets..."
+    }
+  ]
+}

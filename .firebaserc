@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "zoidberg-aiassistant-tutorial"
+  },
+  "targets": {
+    "zoidberg-aiassistant-tutorial": {
+      "hosting": {
+        "invoratec-website": [
+          "invoratec-website"
+        ]
+      }
+    }
+  }
+}

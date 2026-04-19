@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Invoratec Logo - Blue diamond with A peak and flowing waves -->
+  <defs>
+    <linearGradient id="brandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3"/>
+      <stop offset="100%" style="stop-color:#1976D2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main diamond shape rotated 45 degrees -->
+  <g transform="translate(50, 50)">
+    <!-- Top chevron/peak (A shape) -->
+    <path d="M 0,-38 L -30,-8 L -22,-8 L 0,-30 L 22,-8 L 30,-8 Z" fill="url(#brandGrad)"/>
+
+    <!-- Middle wave band -->
+    <path d="M -35,-2 Q -20,8 0,2 Q 20,-4 35,6 L 35,14 Q 20,4 0,10 Q -20,16 -35,6 Z" fill="url(#brandGrad)"/>
+
+    <!-- Bottom wave/triangle -->
+    <path d="M -30,12 Q -15,22 0,16 Q 15,10 30,20 L 0,42 Z" fill="url(#brandGrad)"/>
+  </g>
+</svg>

@@ -1,0 +1,60 @@
+name: Deploy Website to ECS
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+        env:
+          NODE_OPTIONS: '--max-old-space-size=4096'
+
+      - name: Create deployment package
+        run: tar -czf dist.tar.gz -C dist .
+
+      - name: Deploy to ECS
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.ECS_HOST }}
+          username: ${{ secrets.ECS_USER }}
+          password: ${{ secrets.ECS_PASSWORD }}
+          source: dist.tar.gz
+          target: /tmp/
+
+      - name: Extract and activate
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.ECS_HOST }}
+          username: ${{ secrets.ECS_USER }}
+          password: ${{ secrets.ECS_PASSWORD }}
+          script: |
+            rm -rf /var/www/www.invoratec.cn/*
+            tar -xzf /tmp/dist.tar.gz -C /var/www/www.invoratec.cn/
+            rm /tmp/dist.tar.gz
+            echo "Website deployed at $(date)"
+
+      - name: Verify deployment
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.ECS_HOST }}
+          username: ${{ secrets.ECS_USER }}
+          password: ${{ secrets.ECS_PASSWORD }}
+          script: |
+            # Check via local nginx (works even before DNS propagates fully)
+            STATUS=$(curl -s -o /dev/null -w "%{http_code}" -H "Host: www.invoratec.cn" http://127.0.0.1/)
+            echo "HTTP status (via nginx): $STATUS"
+            # Don't fail the build on DNS-related errors during initial setup

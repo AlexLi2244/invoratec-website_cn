@@ -1,0 +1,44 @@
+LOCALIZATION INVENTORY REPORT - InvoratecAI.Website
+Project: Vue.js with Vue-i18n
+File: src/i18n/en.json
+
+===== TRANSLATION SETUP =====
+
+Translation Framework: Vue-i18n
+Supported Languages: 10 (en, zh, es, fr, de, ja, ko, pt, ar, ru)
+Translation File Format: JSON
+
+===== PAGE/ROUTE STRUCTURE =====
+
+Main Routes (from main.ts):
+1. / (HomeView)
+2. /product (FeaturesView)
+3. /pricing (PricingView)
+4. /about (AboutView)
+5. /new-media (NewMediaView - replaces /blog and /cases)
+6. /blog/:slug (BlogPostView)
+7. /cases/:slug (CaseStudyView)
+8. /activities/:slug (ActivityView)
+9. /activities/:slug/register (ActivityRegistrationView)
+10. /docs (DocsView)
+11. /legal (LegalView)
+12. /demo (DemoView)
+13. /download (DownloadView)
+14. /contact (ContactView)
+15. /services/bim-consulting (ServiceBIMConsultingView)
+16. /services/ai-empowerment (ServiceAIEmpowermentView)
+17. /services/technical-support (ServiceTechnicalSupportView)
+
+Legal/Terms Routes:
+- /terms (TermsOfServiceView)
+- /terms/privacy (PrivacyPolicyView)
+- /terms/security (SecurityPolicyView)
+- /terms/cookies (CookiePolicyView)
+- /terms/developer (DeveloperTermsView)
+- /terms/dpa (DPAView)
+- /terms/subprocessors (SubprocessorsView)
+- /terms/ai (AITermsView)
+- /terms/integrations (IntegrationsView)
+
+===== TRANSLATION SECTIONS (28 Total) =====
+
