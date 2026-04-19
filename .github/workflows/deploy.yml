@@ -84,9 +84,13 @@ jobs:
             echo "Website deployed at $(date)"
 
             # ─── 3. Verify, rollback on failure ───
+            # Hit HTTPS directly (port 80 returns 301 → 443 by nginx config, which
+            # is correct behavior, so a status of 301 alone doesn't prove the
+            # site renders). curl -k skips cert chain validation since we hit
+            # 127.0.0.1; -L follows the HTTP→HTTPS redirect if any.
             sleep 3
-            STATUS=$(curl -s -o /dev/null -w "%{http_code}" -H "Host: www.invoratec.cn" http://127.0.0.1/)
-            echo "HTTP status (via local nginx): $STATUS"
+            STATUS=$(curl -sk -o /dev/null -w "%{http_code}" -H "Host: www.invoratec.cn" -L https://127.0.0.1/)
+            echo "HTTPS status (via local nginx): $STATUS"
 
             if [ "$STATUS" != "200" ]; then
               echo "=== Verify FAILED ($STATUS) — initiating rollback ==="
@@ -103,7 +107,7 @@ jobs:
                   rm -rf /tmp/preserve-downloads-rb-$$
                 fi
                 sleep 3
-                ROLLBACK_STATUS=$(curl -s -o /dev/null -w "%{http_code}" -H "Host: www.invoratec.cn" http://127.0.0.1/)
+                ROLLBACK_STATUS=$(curl -sk -o /dev/null -w "%{http_code}" -H "Host: www.invoratec.cn" -L https://127.0.0.1/)
                 if [ "$ROLLBACK_STATUS" = "200" ]; then
                   echo "=== Rollback SUCCESS ==="
                 else
